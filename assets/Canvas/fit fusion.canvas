@@ -1,0 +1,128 @@
+{
+  "nodes": [
+    {
+      "id": "4d06f5dfbba5dad7",
+      "type": "text",
+      "text": "sign up \n",
+      "x": -104,
+      "y": -243,
+      "width": 212,
+      "height": 66
+    },
+    {
+      "id": "0b4263a676a1c389",
+      "type": "text",
+      "text": "tutorial",
+      "x": -123,
+      "y": -83,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "df2d4105e0690959",
+      "type": "text",
+      "text": "recommendation",
+      "x": 239,
+      "y": -83,
+      "width": 250,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "2a1897190d2322f8",
+      "type": "text",
+      "text": "add playlist",
+      "x": 239,
+      "y": 30,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "263addd8c0f53ab8",
+      "type": "text",
+      "text": "track your progress ",
+      "x": 364,
+      "y": -243,
+      "width": 250,
+      "height": 93
+    },
+    {
+      "id": "1135871c00751c94",
+      "type": "text",
+      "text": "Duration ",
+      "x": 127,
+      "y": 199,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "e64cf7b40f29d845",
+      "type": "text",
+      "text": "workouts \n",
+      "x": 423,
+      "y": 199,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "473b6ae73b0b725f",
+      "type": "text",
+      "text": "username\nweight \nheight \nbounce\n(opt)gymawy :: duration \n(opt) worout :: \nemail \npassword\n\n",
+      "x": -592,
+      "y": -343,
+      "width": 305,
+      "height": 320
+    }
+  ],
+  "edges": [
+    {
+      "id": "3b87544819295022",
+      "fromNode": "4d06f5dfbba5dad7",
+      "fromSide": "left",
+      "toNode": "473b6ae73b0b725f",
+      "toSide": "right"
+    },
+    {
+      "id": "68c73d5a77dffe1b",
+      "fromNode": "4d06f5dfbba5dad7",
+      "fromSide": "bottom",
+      "toNode": "0b4263a676a1c389",
+      "toSide": "top"
+    },
+    {
+      "id": "fce3b68c2f838a64",
+      "fromNode": "0b4263a676a1c389",
+      "fromSide": "right",
+      "toNode": "df2d4105e0690959",
+      "toSide": "left"
+    },
+    {
+      "id": "dc67f41b0d3fa655",
+      "fromNode": "0b4263a676a1c389",
+      "fromSide": "right",
+      "toNode": "2a1897190d2322f8",
+      "toSide": "left"
+    },
+    {
+      "id": "045375200c4a6ba0",
+      "fromNode": "df2d4105e0690959",
+      "fromSide": "top",
+      "toNode": "263addd8c0f53ab8",
+      "toSide": "bottom"
+    },
+    {
+      "id": "6bc7fa5356b1d989",
+      "fromNode": "2a1897190d2322f8",
+      "fromSide": "bottom",
+      "toNode": "1135871c00751c94",
+      "toSide": "top"
+    },
+    {
+      "id": "048765ad6b2fa1d7",
+      "fromNode": "2a1897190d2322f8",
+      "fromSide": "bottom",
+      "toNode": "e64cf7b40f29d845",
+      "toSide": "top"
+    }
+  ]
+}

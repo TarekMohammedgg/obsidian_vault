@@ -1,0 +1,292 @@
+{
+  "nodes": [
+    {
+      "id": "78a86de69046b6d7",
+      "type": "group",
+      "x": -68,
+      "y": -850,
+      "width": 636,
+      "height": 206,
+      "label": "payment Gateways options "
+    },
+    {
+      "id": "d2b6393e921bfb91",
+      "type": "group",
+      "x": 690,
+      "y": -1016,
+      "width": 290,
+      "height": 313,
+      "label": "Gateway methods"
+    },
+    {
+      "id": "3780c647f5e9fd29",
+      "type": "group",
+      "x": 760,
+      "y": -520,
+      "width": 359,
+      "height": 187,
+      "label": "connect to payment gateways"
+    },
+    {
+      "id": "b42b9d655e26b770",
+      "type": "text",
+      "text": "SDK (plugin)",
+      "x": 780,
+      "y": -500,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "cd4f4243d4f79016",
+      "type": "text",
+      "text": "Merchant ",
+      "x": 755,
+      "y": 93,
+      "width": 250,
+      "height": 135
+    },
+    {
+      "id": "2b75bf47069d742f",
+      "type": "text",
+      "text": "Digital \n",
+      "x": -397,
+      "y": -580,
+      "width": 125,
+      "height": 60
+    },
+    {
+      "id": "ba461614d844c64a",
+      "type": "text",
+      "text": "Stripe",
+      "x": -48,
+      "y": -830,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "cde2fc541dbd43e4",
+      "type": "text",
+      "text": "paypal",
+      "x": -48,
+      "y": -724,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "516e36238235a1af",
+      "type": "text",
+      "text": "Paymbo",
+      "x": 298,
+      "y": -830,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "93be72bd645035dd",
+      "type": "text",
+      "text": "2chekcout",
+      "x": 298,
+      "y": -724,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "df7d36eda6b15d0c",
+      "type": "text",
+      "text": "",
+      "x": -1075,
+      "y": -890,
+      "width": 579,
+      "height": 671
+    },
+    {
+      "id": "7ec273aa19eb7a5e",
+      "type": "text",
+      "text": "Hosted payment Gateway (paypal)",
+      "x": 710,
+      "y": -928,
+      "width": 270,
+      "height": 129
+    },
+    {
+      "id": "854d1182fb989fb8",
+      "type": "text",
+      "text": "Card method",
+      "x": 710,
+      "y": -783,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "a38ef6dc395ccb08",
+      "type": "text",
+      "text": "API Flow ",
+      "x": 780,
+      "y": -421,
+      "width": 250,
+      "height": 68
+    },
+    {
+      "id": "7f30aeafb5c9bcf3",
+      "type": "text",
+      "text": "In app purchase ",
+      "x": -235,
+      "y": -480,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "bd86ee87f0614bed",
+      "type": "text",
+      "text": "Physical",
+      "x": 430,
+      "y": -560,
+      "width": 126,
+      "height": 67
+    },
+    {
+      "id": "b25c0b7653ffa564",
+      "type": "text",
+      "text": "Payment Gateways",
+      "x": 180,
+      "y": -480,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "773c1af8d0c52927",
+      "type": "text",
+      "text": "payment in flutter ",
+      "x": 40,
+      "y": -260,
+      "width": 200,
+      "height": 82
+    },
+    {
+      "id": "7af37e63e8b10a32",
+      "type": "text",
+      "text": "Payment Gateway (Stripe)",
+      "x": 15,
+      "y": -98,
+      "width": 290,
+      "height": 501
+    },
+    {
+      "id": "49bb88f0bb9fd3cc",
+      "type": "text",
+      "text": "publishable key (give token to user ) ",
+      "x": 40,
+      "y": 11,
+      "width": 250,
+      "height": 280
+    },
+    {
+      "id": "ce09b4f5ad23904a",
+      "type": "text",
+      "text": "User",
+      "x": -825,
+      "y": 93,
+      "width": 250,
+      "height": 197
+    },
+    {
+      "id": "88c1d9175401f22e",
+      "type": "text",
+      "text": "Payment intend \nنية الشراء ",
+      "x": 83,
+      "y": 93,
+      "width": 165,
+      "height": 135
+    },
+    {
+      "id": "4ae6fa7b49c92806",
+      "type": "text",
+      "text": "Nodal Bank ",
+      "x": -445,
+      "y": 131,
+      "width": 250,
+      "height": 60
+    }
+  ],
+  "edges": [
+    {
+      "id": "c06293d5ae01cabc",
+      "fromNode": "7f30aeafb5c9bcf3",
+      "fromSide": "left",
+      "toNode": "2b75bf47069d742f",
+      "toSide": "bottom"
+    },
+    {
+      "id": "9dc28518a5a4b32d",
+      "fromNode": "b25c0b7653ffa564",
+      "fromSide": "right",
+      "toNode": "bd86ee87f0614bed",
+      "toSide": "bottom"
+    },
+    {
+      "id": "9c6e69525d370ce6",
+      "fromNode": "773c1af8d0c52927",
+      "fromSide": "top",
+      "toNode": "b25c0b7653ffa564",
+      "toSide": "bottom"
+    },
+    {
+      "id": "fd3d675a16508f90",
+      "fromNode": "773c1af8d0c52927",
+      "fromSide": "top",
+      "toNode": "7f30aeafb5c9bcf3",
+      "toSide": "bottom"
+    },
+    {
+      "id": "0e62078cd5aade9d",
+      "fromNode": "7af37e63e8b10a32",
+      "fromSide": "left",
+      "toNode": "4ae6fa7b49c92806",
+      "toSide": "right"
+    },
+    {
+      "id": "96ffe2da3c6f3cd1",
+      "fromNode": "4ae6fa7b49c92806",
+      "fromSide": "left",
+      "toNode": "ce09b4f5ad23904a",
+      "toSide": "right"
+    },
+    {
+      "id": "4dfbcd3d0dabf835",
+      "fromNode": "88c1d9175401f22e",
+      "fromSide": "right",
+      "toNode": "cd4f4243d4f79016",
+      "toSide": "left",
+      "label": "client Secret"
+    },
+    {
+      "id": "6801a51f113d6841",
+      "fromNode": "cd4f4243d4f79016",
+      "fromSide": "left",
+      "toNode": "7af37e63e8b10a32",
+      "toSide": "right",
+      "label": "Secret Key "
+    },
+    {
+      "id": "6716766a7d64b045",
+      "fromNode": "b25c0b7653ffa564",
+      "fromSide": "top",
+      "toNode": "78a86de69046b6d7",
+      "toSide": "bottom"
+    },
+    {
+      "id": "c5b19be33b94ac52",
+      "fromNode": "b25c0b7653ffa564",
+      "fromSide": "top",
+      "toNode": "d2b6393e921bfb91",
+      "toSide": "bottom"
+    },
+    {
+      "id": "a01b83babc929c8b",
+      "fromNode": "b25c0b7653ffa564",
+      "fromSide": "right",
+      "toNode": "3780c647f5e9fd29",
+      "toSide": "left"
+    }
+  ]
+}

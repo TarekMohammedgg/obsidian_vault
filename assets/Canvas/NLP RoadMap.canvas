@@ -1,0 +1,207 @@
+{
+  "nodes": [
+    {
+      "id": "b6b89fa59549832a",
+      "x": -123,
+      "y": -209,
+      "width": 351,
+      "height": 66,
+      "type": "text",
+      "text": "Pre requisites "
+    },
+    {
+      "id": "dc159de8f8f733ff",
+      "x": -123,
+      "y": -38,
+      "width": 351,
+      "height": 94,
+      "type": "text",
+      "text": "NLP Roadmap"
+    },
+    {
+      "id": "a5e198c3b76291b5",
+      "x": -123,
+      "y": 139,
+      "width": 351,
+      "height": 50,
+      "type": "text",
+      "text": "Core "
+    },
+    {
+      "id": "a01522d9de4aa8dc",
+      "x": -248,
+      "y": -436,
+      "width": 250,
+      "height": 60,
+      "type": "text",
+      "text": "Python "
+    },
+    {
+      "id": "8ba916f2fca9bfbd",
+      "x": 53,
+      "y": -436,
+      "width": 250,
+      "height": 60,
+      "type": "text",
+      "text": "mathematics"
+    },
+    {
+      "id": "01f856f7f74da523",
+      "x": 345,
+      "y": -446,
+      "width": 330,
+      "height": 80,
+      "type": "text",
+      "text": "Machine learning "
+    },
+    {
+      "id": "23962bc30a70b705",
+      "x": -601,
+      "y": -436,
+      "width": 250,
+      "height": 60,
+      "type": "text",
+      "text": "DSA "
+    },
+    {
+      "id": "976afa95b54c014d",
+      "x": -72,
+      "y": 330,
+      "width": 250,
+      "height": 60,
+      "type": "text",
+      "text": "Core NLP "
+    },
+    {
+      "id": "b422e3af93258c42",
+      "x": -601,
+      "y": -909,
+      "width": 224,
+      "height": 322,
+      "type": "text",
+      "text": "Lists \nqueues \nstacks \ntrees \ngraphs \nsorting \nsearching "
+    },
+    {
+      "id": "6d0aaf03e449a198",
+      "x": -309,
+      "y": -819,
+      "width": 311,
+      "height": 232,
+      "type": "text",
+      "text": "Basics \npytorch \nspacy \nTensorFlow \nscikit-learn"
+    },
+    {
+      "id": "5a42817407867a43",
+      "x": 66,
+      "y": -790,
+      "width": 324,
+      "height": 175,
+      "type": "text",
+      "text": "linear Algebra\nStatistics \nProbabilities "
+    },
+    {
+      "id": "379c8efde1014da4",
+      "x": 452,
+      "y": -829,
+      "width": 298,
+      "height": 214,
+      "type": "text",
+      "text": "Supervised \nUnsupervised\nReinforcement "
+    },
+    {
+      "id": "a87826b7c8c16463",
+      "x": -72,
+      "y": 513,
+      "width": 459,
+      "height": 422,
+      "type": "text",
+      "text": "Tokenization \nPart of Speech tagging \nNamed Entity Recognition \nSentiment Analysis \nDependency Parsing \nAttentions \nTransformers \nBert models \nSequence to Sequence "
+    }
+  ],
+  "edges": [
+    {
+      "id": "fd00a5bd9d895274",
+      "fromNode": "dc159de8f8f733ff",
+      "fromSide": "top",
+      "toNode": "b6b89fa59549832a",
+      "toSide": "bottom"
+    },
+    {
+      "id": "6c1eff9fc5849566",
+      "fromNode": "dc159de8f8f733ff",
+      "fromSide": "bottom",
+      "toNode": "a5e198c3b76291b5",
+      "toSide": "top"
+    },
+    {
+      "id": "78854f184279f473",
+      "fromNode": "23962bc30a70b705",
+      "fromSide": "top",
+      "toNode": "b422e3af93258c42",
+      "toSide": "bottom"
+    },
+    {
+      "id": "0679cdc6bf35c049",
+      "fromNode": "a01522d9de4aa8dc",
+      "fromSide": "top",
+      "toNode": "6d0aaf03e449a198",
+      "toSide": "bottom"
+    },
+    {
+      "id": "8a3e648b05b56c74",
+      "fromNode": "8ba916f2fca9bfbd",
+      "fromSide": "top",
+      "toNode": "5a42817407867a43",
+      "toSide": "bottom"
+    },
+    {
+      "id": "13a1fe4e4095cf67",
+      "fromNode": "01f856f7f74da523",
+      "fromSide": "top",
+      "toNode": "379c8efde1014da4",
+      "toSide": "bottom"
+    },
+    {
+      "id": "54267a0750ece0e4",
+      "fromNode": "b6b89fa59549832a",
+      "fromSide": "top",
+      "toNode": "23962bc30a70b705",
+      "toSide": "bottom"
+    },
+    {
+      "id": "594d9daa8f8b80be",
+      "fromNode": "b6b89fa59549832a",
+      "fromSide": "top",
+      "toNode": "a01522d9de4aa8dc",
+      "toSide": "bottom"
+    },
+    {
+      "id": "fa9f98b87aa28d5b",
+      "fromNode": "b6b89fa59549832a",
+      "fromSide": "top",
+      "toNode": "8ba916f2fca9bfbd",
+      "toSide": "bottom"
+    },
+    {
+      "id": "2d100ce03d5f7f59",
+      "fromNode": "b6b89fa59549832a",
+      "fromSide": "top",
+      "toNode": "01f856f7f74da523",
+      "toSide": "bottom"
+    },
+    {
+      "id": "b32add54ebb6b3d8",
+      "fromNode": "976afa95b54c014d",
+      "fromSide": "bottom",
+      "toNode": "a87826b7c8c16463",
+      "toSide": "top"
+    },
+    {
+      "id": "9195187778806767",
+      "fromNode": "a5e198c3b76291b5",
+      "fromSide": "bottom",
+      "toNode": "976afa95b54c014d",
+      "toSide": "top"
+    }
+  ]
+}

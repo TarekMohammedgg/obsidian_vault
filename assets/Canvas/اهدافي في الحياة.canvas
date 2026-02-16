@@ -1,0 +1,265 @@
+{
+  "nodes": [
+    {
+      "id": "a94277cceb6ec1a7",
+      "type": "text",
+      "text": "جسمي جيبي قلبي عقلي ",
+      "x": -497,
+      "y": -302,
+      "width": 250,
+      "height": 50,
+      "color": "2"
+    },
+    {
+      "id": "565aa645e1e0aeee",
+      "type": "text",
+      "text": "الانسان المتوازن",
+      "x": -497,
+      "y": -457,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "e414945c0f36516e",
+      "type": "text",
+      "text": "اهدافي في الحياة ",
+      "x": 8,
+      "y": -312,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "34f8f1e1ebcd2d1d",
+      "type": "text",
+      "text": "فقة الاستخلاف ",
+      "x": -591,
+      "y": -75,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "4b10683ceabff8d3",
+      "type": "text",
+      "text": "الدين و الصحة النفسية ",
+      "x": 535,
+      "y": -75,
+      "width": 310,
+      "height": 60
+    },
+    {
+      "id": "22345c75d18e0599",
+      "type": "text",
+      "text": "الرياضة ",
+      "x": 258,
+      "y": -75,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "7acee23ee8629df8",
+      "type": "text",
+      "text": "الربح و المال ",
+      "x": -16,
+      "y": -75,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "961e64871f0b0ed9",
+      "type": "text",
+      "text": "قراءة عامة ",
+      "x": -288,
+      "y": -75,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "8d927f891ee406b8",
+      "type": "text",
+      "text": "Mobile Development specially in flutter ",
+      "x": -879,
+      "y": 80,
+      "width": 268,
+      "height": 85
+    },
+    {
+      "id": "ab4c9b1721eb2a9a",
+      "type": "text",
+      "text": "Software tools and deployment ",
+      "x": -879,
+      "y": 197,
+      "width": 279,
+      "height": 76
+    },
+    {
+      "id": "1edf70ac8f68d661",
+      "type": "text",
+      "text": "General topics in self improvement ",
+      "x": -371,
+      "y": 64,
+      "width": 278,
+      "height": 84
+    },
+    {
+      "id": "1b9aeecc000222a8",
+      "type": "text",
+      "text": "General topics in History ",
+      "x": -371,
+      "y": 185,
+      "width": 278,
+      "height": 68
+    },
+    {
+      "id": "4da32467a92bedb9",
+      "type": "text",
+      "text": "how to gain money  ",
+      "x": -16,
+      "y": 76,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "95810d8efb457e78",
+      "type": "text",
+      "text": "work on freelance works ",
+      "x": -16,
+      "y": 185,
+      "width": 274,
+      "height": 68
+    },
+    {
+      "id": "ec973f4ae994ff6b",
+      "type": "text",
+      "text": "lose around 30kg ",
+      "x": 285,
+      "y": 76,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "7b89f70cc469d29a",
+      "type": "text",
+      "text": "Do Exercises ",
+      "x": 297,
+      "y": 185,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "0031877dc5c70ce0",
+      "type": "text",
+      "text": "الرد علي الثلاث اسئلة الوجودية ( ما و لماذا و كيف )\n- من انا ؟ و من هو خالقي ؟ \n- لماذا خلقني ؟ \n- و كيف اقوم بالتعاليم و بأداء المهام المطلوبة مني في هذه الدنيا ؟ ",
+      "x": 565,
+      "y": 61,
+      "width": 388,
+      "height": 246
+    }
+  ],
+  "edges": [
+    {
+      "id": "ad207778ddc390cb",
+      "fromNode": "565aa645e1e0aeee",
+      "fromSide": "bottom",
+      "toNode": "a94277cceb6ec1a7",
+      "toSide": "top"
+    },
+    {
+      "id": "978caabd71e6ea03",
+      "fromNode": "e414945c0f36516e",
+      "fromSide": "bottom",
+      "toNode": "34f8f1e1ebcd2d1d",
+      "toSide": "top"
+    },
+    {
+      "id": "a5572ab7c86cd879",
+      "fromNode": "e414945c0f36516e",
+      "fromSide": "bottom",
+      "toNode": "961e64871f0b0ed9",
+      "toSide": "top"
+    },
+    {
+      "id": "32fa230525e75c26",
+      "fromNode": "e414945c0f36516e",
+      "fromSide": "bottom",
+      "toNode": "22345c75d18e0599",
+      "toSide": "top"
+    },
+    {
+      "id": "f6e57a3921747940",
+      "fromNode": "e414945c0f36516e",
+      "fromSide": "bottom",
+      "toNode": "4b10683ceabff8d3",
+      "toSide": "top"
+    },
+    {
+      "id": "660f498d23e8df33",
+      "fromNode": "e414945c0f36516e",
+      "fromSide": "bottom",
+      "toNode": "7acee23ee8629df8",
+      "toSide": "top"
+    },
+    {
+      "id": "7602203cf73c2418",
+      "fromNode": "34f8f1e1ebcd2d1d",
+      "fromSide": "bottom",
+      "toNode": "8d927f891ee406b8",
+      "toSide": "top"
+    },
+    {
+      "id": "b4816c17275eafd0",
+      "fromNode": "34f8f1e1ebcd2d1d",
+      "fromSide": "bottom",
+      "toNode": "ab4c9b1721eb2a9a",
+      "toSide": "top"
+    },
+    {
+      "id": "26bfc6375771b02c",
+      "fromNode": "961e64871f0b0ed9",
+      "fromSide": "bottom",
+      "toNode": "1edf70ac8f68d661",
+      "toSide": "top"
+    },
+    {
+      "id": "2e687d17f634bb5b",
+      "fromNode": "961e64871f0b0ed9",
+      "fromSide": "bottom",
+      "toNode": "1b9aeecc000222a8",
+      "toSide": "top"
+    },
+    {
+      "id": "9efd65202561fb5a",
+      "fromNode": "7acee23ee8629df8",
+      "fromSide": "bottom",
+      "toNode": "4da32467a92bedb9",
+      "toSide": "top"
+    },
+    {
+      "id": "62a759384c5fc4d9",
+      "fromNode": "7acee23ee8629df8",
+      "fromSide": "bottom",
+      "toNode": "95810d8efb457e78",
+      "toSide": "top"
+    },
+    {
+      "id": "be3bbdede219417e",
+      "fromNode": "22345c75d18e0599",
+      "fromSide": "bottom",
+      "toNode": "ec973f4ae994ff6b",
+      "toSide": "top"
+    },
+    {
+      "id": "e5d29c3d806ab987",
+      "fromNode": "22345c75d18e0599",
+      "fromSide": "bottom",
+      "toNode": "7b89f70cc469d29a",
+      "toSide": "left"
+    },
+    {
+      "id": "5d40dfbc26952614",
+      "fromNode": "4b10683ceabff8d3",
+      "fromSide": "bottom",
+      "toNode": "0031877dc5c70ce0",
+      "toSide": "top"
+    }
+  ]
+}

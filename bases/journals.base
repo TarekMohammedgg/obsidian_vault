@@ -1,0 +1,108 @@
+summaries:
+  Filled: values.filter(!value.isType("null")).length
+  Checked: values.filter(value == true).length
+  new summary: ""
+  new summary 2: ""
+filters:
+  and:
+    - file.folder != "templates"
+formulas:
+  reading time: '["reading"]'
+  Untitled: ""
+  Untitled 2: |-
+    $= dv.pages("journals/2025")
+          .where(p => p.file.day >= date("2025-11-15") && p.file.day <= date("2025-11-21"))
+          .map(p => number(p.reading))
+          .reduce((acc, v) => acc + v, 0) / 60 + " hours"
+views:
+  - type: table
+    name: daily view
+    filters:
+      and:
+        - file.hasTag("daily")
+        - date >= "2026-02-07"
+        - date <= "2026-02-13"
+    order:
+      - file.name
+      - اذكار-الصباح
+      - اذكار-المساء
+      - قراءة
+      - ورد-القرآن-الكريم
+      - قراءة-خاصة
+      - قراءة-عامة
+      - gym
+    sort:
+      - property: mood-5
+        direction: DESC
+      - property: file.name
+        direction: DESC
+      - property: problem solving (mini 2)
+        direction: DESC
+      - property: log-productivity
+        direction: ASC
+    summaries:
+      اذكار الصباح: Checked
+      اذكار المساء: Checked
+      الورد اليومي من القرآن: Checked
+      mood-5: Average
+      file.name: Unique
+      Learn English: Checked
+      read: Checked
+      💀: Checked
+      learn: Checked
+      اذكار-الصباح: Checked
+      اذكار-المساء: Checked
+      قراءة: Checked
+      ورد-القرآن-الكريم: Checked
+    columnSize:
+      note.ورد-القرآن-الكريم: 170
+      note.قراءة-عامة: 126
+    rowHeight: medium
+  - type: table
+    name: weekly view
+    filters:
+      and:
+        - file.hasTag("weekly")
+    order:
+      - file.name
+      - review
+    sort:
+      - property: file.name
+        direction: DESC
+    columnSize:
+      file.name: 155
+      note.review: 105
+      note.result (%): 98
+  - type: table
+    name: goals view
+    filters:
+      and:
+        - file.hasTag("Goals")
+        - file.hasTag("⚡Hub")
+  - type: table
+    name: Simple view
+    filters:
+      and:
+        - file.tags.contains("daily")
+        - date >= "2025-12-06"
+        - date <= "2025-12-12"
+    order:
+      - file.name
+      - mood-5
+    sort:
+      - property: file.name
+        direction: DESC
+    summaries:
+      اذكار الصباح: Checked
+      اذكار المساء: Checked
+      الورد اليومي من القرآن: Checked
+      mood-5: Average
+      file.name: Unique
+    columnSize:
+      note.mood-5: 86
+    rowHeight: medium
+  - type: table
+    name: yearly view
+    filters:
+      and:
+        - file.hasTag("yearly")

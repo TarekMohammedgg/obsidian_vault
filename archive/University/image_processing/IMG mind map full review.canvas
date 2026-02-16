@@ -1,0 +1,719 @@
+{
+  "nodes": [
+    {
+      "id": "65323a4257355cba",
+      "type": "text",
+      "text": "Histogram & Halftoning ",
+      "x": -110,
+      "y": -257,
+      "width": 250,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "9e6300fd7b9df66f",
+      "type": "text",
+      "text": "what is meaning of Halftoning",
+      "x": 181,
+      "y": -378,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "502bfc4c1c3692e0",
+      "type": "text",
+      "text": "what is meaning of Histogram ",
+      "x": -465,
+      "y": -378,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "72fd6dbb349fe77e",
+      "type": "file",
+      "file": "02 Media/Pasted image 20241217145431.jpg",
+      "x": -777,
+      "y": -574,
+      "width": 253,
+      "height": 152
+    },
+    {
+      "id": "a6a356233a54a584",
+      "type": "text",
+      "text": "Transfer our gray scale image to binary (0 ,1 ) image ",
+      "x": 373,
+      "y": -574,
+      "width": 290,
+      "height": 90
+    },
+    {
+      "id": "61cdf9ce8eebd4bc",
+      "type": "file",
+      "file": "02 Media/Pasted image 20241217145547.jpg",
+      "x": 645,
+      "y": -1026,
+      "width": 280,
+      "height": 280
+    },
+    {
+      "id": "42d833cd110f5614",
+      "type": "text",
+      "text": "the type of Noise in this image is sault and spicy noise ",
+      "x": 947,
+      "y": -1026,
+      "width": 299,
+      "height": 60
+    },
+    {
+      "id": "3ff56556cd92edb0",
+      "type": "text",
+      "text": "Histogram Equalization",
+      "x": -809,
+      "y": -754,
+      "width": 317,
+      "height": 57
+    },
+    {
+      "id": "bf504075113d4125",
+      "type": "text",
+      "text": "عشان اخلي  ال histogram بتاعي القيم بتاعته علي طول ال x - axis و ده بيقلل من ال Noise و من Normal distribution",
+      "x": -353,
+      "y": -754,
+      "width": 276,
+      "height": 113
+    },
+    {
+      "id": "9ee6d58261b54be3",
+      "type": "file",
+      "file": "02 Media/sphx_glr_adaptive_histogram_equalization_001.jpg",
+      "x": -772,
+      "y": -1025,
+      "width": 243,
+      "height": 182
+    },
+    {
+      "id": "60cf278d3fdac6e4",
+      "type": "text",
+      "text": "هو عبارة عن Graph بيمثل ال the frequency for intensity pixels in the image ",
+      "x": -465,
+      "y": -574,
+      "width": 296,
+      "height": 108
+    },
+    {
+      "id": "641265e54235a649",
+      "type": "text",
+      "text": "Edge Detection ",
+      "x": 231,
+      "y": -103,
+      "width": 250,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "f83aa753b1d40d78",
+      "type": "text",
+      "text": "لما يحصل فرق كبير في درجات ال gray scale بيبقي هو ده ال edge بتاع الصورة ",
+      "x": 519,
+      "y": -227,
+      "width": 255,
+      "height": 90
+    },
+    {
+      "id": "7d237a4433f237d4",
+      "type": "file",
+      "file": "02 Media/Pasted image 20241217150248.jpg",
+      "x": 874,
+      "y": -275,
+      "width": 400,
+      "height": 156
+    },
+    {
+      "id": "91185db50cfee6fc",
+      "type": "text",
+      "text": "Operations can do on the image \n",
+      "x": -578,
+      "y": -145,
+      "width": 302,
+      "height": 102,
+      "color": "4"
+    },
+    {
+      "id": "0a29f1f75f9659e2",
+      "type": "text",
+      "text": "Addition and Subtraction ",
+      "x": -1001,
+      "y": -197,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "6b4fd0c295b9c281",
+      "type": "text",
+      "text": "Boolean & Overlay ",
+      "x": -1001,
+      "y": -43,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "a1069204a93b0144",
+      "type": "text",
+      "text": "Edge Detection &  apply gray shading on region growing ",
+      "x": -713,
+      "y": 816,
+      "width": 259,
+      "height": 97
+    },
+    {
+      "id": "e0e45930cf92a128",
+      "type": "text",
+      "text": "Detect Objects ",
+      "x": -454,
+      "y": 115,
+      "width": 178,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "b9b9b2814ad1abf9",
+      "type": "text",
+      "text": "the image have (background & object )\n1. background is the highest peak in the histogram \n2. object is the next highest peak after the background",
+      "x": -265,
+      "y": 390,
+      "width": 413,
+      "height": 200
+    },
+    {
+      "id": "13a59d2b5bf607fc",
+      "type": "text",
+      "text": "Dilation & Erosion ",
+      "x": -1001,
+      "y": -362,
+      "width": 210,
+      "height": 60
+    },
+    {
+      "id": "af0cfd796c2f9340",
+      "type": "text",
+      "text": "outlining",
+      "x": -1537,
+      "y": -566,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "e66c2dee326f4bd4",
+      "type": "text",
+      "text": "thinning & skeletonization  ",
+      "x": -1537,
+      "y": -466,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "20e95142054d5de1",
+      "type": "text",
+      "text": "Opening & Closing ",
+      "x": -1545,
+      "y": -681,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "b2c9266312968f35",
+      "type": "text",
+      "text": "Dilation & Erosion ",
+      "x": -1545,
+      "y": -785,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "18583821d3137075",
+      "type": "text",
+      "text": "1. Forget list (contain the edge values )\n2. min and max to limit the size of work space \n3. diff the allowable range of gray shading to group and label neighbors  ",
+      "x": -973,
+      "y": 1090,
+      "width": 313,
+      "height": 235
+    },
+    {
+      "id": "a8ded2c980cccaf6",
+      "type": "text",
+      "text": "1. Manual Histogram",
+      "x": -1118,
+      "y": 337,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "7c4c24a7aae606c1",
+      "type": "text",
+      "text": "2. Peak Histogram",
+      "x": -1118,
+      "y": 434,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "9792cbef5f806672",
+      "type": "text",
+      "text": "3. valley Histogram",
+      "x": -1118,
+      "y": 532,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "d1a2094c6c14fb06",
+      "type": "text",
+      "text": "Adaptive Histogram",
+      "x": -1118,
+      "y": 643,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "c5d1a4363df125b1",
+      "type": "text",
+      "text": "1. first segment\n\tapply valley histogram peak on histogram and find the threshold \n2. apply the mean on the histogram \n3. Second Segment \n\tapply valley again on the mean histogram ",
+      "x": -1685,
+      "y": 756,
+      "width": 497,
+      "height": 228
+    },
+    {
+      "id": "f8d02c37c0de12b5",
+      "type": "file",
+      "file": "02 Media/Pasted image 20241217152515.jpg",
+      "x": -2046,
+      "y": 390,
+      "width": 292,
+      "height": 202
+    },
+    {
+      "id": "121f1269149e73a3",
+      "type": "text",
+      "text": "find the average between high peak and low peak ",
+      "x": -1615,
+      "y": 459,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "a647edc81ce826e9",
+      "type": "text",
+      "text": "Find the lowest value between object and background",
+      "x": -1606,
+      "y": 562,
+      "width": 241,
+      "height": 111
+    },
+    {
+      "id": "21070b3d717069a7",
+      "type": "text",
+      "text": "find the low and high threshold manually , best for fine tuning",
+      "x": -1537,
+      "y": 337,
+      "width": 251,
+      "height": 89
+    },
+    {
+      "id": "ffe13457cac6f8e4",
+      "type": "text",
+      "text": "Histogram Based",
+      "x": -713,
+      "y": 434,
+      "width": 208,
+      "height": 60
+    },
+    {
+      "id": "bcd93d0a103a8991",
+      "type": "text",
+      "text": "Boolean Operations like : \n1. AND \n2. OR \n3. XOR \n4. NAND\n5. NOR\n6. NOT",
+      "x": -1603,
+      "y": 11,
+      "width": 308,
+      "height": 268
+    },
+    {
+      "id": "3e768ed065eb8f5a",
+      "type": "text",
+      "text": "Overlay types : \n1. A greater than B \n2. A less than B \n3. Zero A onto B \n4. non-zero A onto B \n5. Average A onto B ",
+      "x": -1638,
+      "y": -309,
+      "width": 378,
+      "height": 225
+    },
+    {
+      "id": "d8a9855b3b673f91",
+      "type": "text",
+      "text": "the best is difference next difference of Gaussian ",
+      "x": 942,
+      "y": 410,
+      "width": 267,
+      "height": 103
+    },
+    {
+      "id": "26792ad7bf2f24a3",
+      "type": "text",
+      "text": "Contrast Edge detection best for low contrast or  low light images ",
+      "x": 950,
+      "y": 546,
+      "width": 259,
+      "height": 89
+    },
+    {
+      "id": "f9215578132ad2bf",
+      "type": "text",
+      "text": "1. high filter \n2. low filter\n3. median filter \n4. average filter ",
+      "x": 374,
+      "y": 733,
+      "width": 289,
+      "height": 147
+    },
+    {
+      "id": "c501ea2698f4eb6a",
+      "type": "text",
+      "text": "1. homoginety  \n2. difference \n3. difference of Gaussian \n4. contrast edge detection ",
+      "x": 647,
+      "y": 410,
+      "width": 251,
+      "height": 204
+    },
+    {
+      "id": "d1f09d1daf8e8cec",
+      "type": "text",
+      "text": "1. robert \n2. sobel\n3. prewitt \n4. kirsch\n5. robinsson\n6. laplacian",
+      "x": 639,
+      "y": -35,
+      "width": 303,
+      "height": 195
+    },
+    {
+      "id": "611558b8e27426e8",
+      "type": "text",
+      "text": "the best is Sobel and the range of weights is [-2 , 2 ] , the next is prewitt the range [-1 , 1 ] ",
+      "x": 969,
+      "y": -35,
+      "width": 280,
+      "height": 128
+    },
+    {
+      "id": "ead8d1fd152bf91b",
+      "type": "text",
+      "text": "they related as filters or masks the different between each on is in weights and the affect on the image ",
+      "x": 628,
+      "y": 179,
+      "width": 314,
+      "height": 136
+    },
+    {
+      "id": "3bd131cca6dd8431",
+      "type": "text",
+      "text": "IMG\n",
+      "x": -33,
+      "y": -120,
+      "width": 125,
+      "height": 94,
+      "color": "2"
+    }
+  ],
+  "edges": [
+    {
+      "id": "27760f675ca084eb",
+      "fromNode": "65323a4257355cba",
+      "fromSide": "left",
+      "toNode": "502bfc4c1c3692e0",
+      "toSide": "bottom"
+    },
+    {
+      "id": "d26480557605e9ca",
+      "fromNode": "65323a4257355cba",
+      "fromSide": "right",
+      "toNode": "9e6300fd7b9df66f",
+      "toSide": "bottom"
+    },
+    {
+      "id": "9cb775daf3c78b2d",
+      "fromNode": "502bfc4c1c3692e0",
+      "fromSide": "left",
+      "toNode": "72fd6dbb349fe77e",
+      "toSide": "bottom",
+      "label": "like this"
+    },
+    {
+      "id": "877d17b832503601",
+      "fromNode": "9e6300fd7b9df66f",
+      "fromSide": "right",
+      "toNode": "a6a356233a54a584",
+      "toSide": "left"
+    },
+    {
+      "id": "316603aeee0e8d45",
+      "fromNode": "a6a356233a54a584",
+      "fromSide": "top",
+      "toNode": "61cdf9ce8eebd4bc",
+      "toSide": "left",
+      "label": "applying diffusion matrix"
+    },
+    {
+      "id": "d8e4ada710850641",
+      "fromNode": "72fd6dbb349fe77e",
+      "fromSide": "top",
+      "toNode": "3ff56556cd92edb0",
+      "toSide": "bottom",
+      "label": "applying"
+    },
+    {
+      "id": "9a52c74e86e70f0b",
+      "fromNode": "3ff56556cd92edb0",
+      "fromSide": "top",
+      "toNode": "9ee6d58261b54be3",
+      "toSide": "bottom"
+    },
+    {
+      "id": "1736b8e401f6b345",
+      "fromNode": "3ff56556cd92edb0",
+      "fromSide": "right",
+      "toNode": "bf504075113d4125",
+      "toSide": "left",
+      "label": "why?"
+    },
+    {
+      "id": "011513a228f18299",
+      "fromNode": "3bd131cca6dd8431",
+      "fromSide": "top",
+      "toNode": "65323a4257355cba",
+      "toSide": "bottom"
+    },
+    {
+      "id": "5b42cb17ab77a595",
+      "fromNode": "72fd6dbb349fe77e",
+      "fromSide": "right",
+      "toNode": "60cf278d3fdac6e4",
+      "toSide": "left"
+    },
+    {
+      "id": "5639db0469751f35",
+      "fromNode": "3bd131cca6dd8431",
+      "fromSide": "right",
+      "toNode": "641265e54235a649",
+      "toSide": "left"
+    },
+    {
+      "id": "3fd00f9dae23deb8",
+      "fromNode": "641265e54235a649",
+      "fromSide": "top",
+      "toNode": "f83aa753b1d40d78",
+      "toSide": "left",
+      "label": "what"
+    },
+    {
+      "id": "9c1a49e72d472037",
+      "fromNode": "f83aa753b1d40d78",
+      "fromSide": "right",
+      "toNode": "7d237a4433f237d4",
+      "toSide": "left"
+    },
+    {
+      "id": "cabda18a435d00b5",
+      "fromNode": "641265e54235a649",
+      "fromSide": "bottom",
+      "toNode": "d1f09d1daf8e8cec",
+      "toSide": "left",
+      "label": "basic types "
+    },
+    {
+      "id": "bf0a851270e3734a",
+      "fromNode": "641265e54235a649",
+      "fromSide": "bottom",
+      "toNode": "c501ea2698f4eb6a",
+      "toSide": "left",
+      "label": "\n\nAdvantage methods\n\n\n"
+    },
+    {
+      "id": "fde1832c2b8aaf93",
+      "fromNode": "3bd131cca6dd8431",
+      "fromSide": "left",
+      "toNode": "91185db50cfee6fc",
+      "toSide": "right"
+    },
+    {
+      "id": "81d069d5ff28fbc7",
+      "fromNode": "3bd131cca6dd8431",
+      "fromSide": "bottom",
+      "toNode": "e0e45930cf92a128",
+      "toSide": "right"
+    },
+    {
+      "id": "959fe2f922f873c7",
+      "fromNode": "ffe13457cac6f8e4",
+      "fromSide": "left",
+      "toNode": "7c4c24a7aae606c1",
+      "toSide": "right"
+    },
+    {
+      "id": "64ed37045024b8cb",
+      "fromNode": "ffe13457cac6f8e4",
+      "fromSide": "left",
+      "toNode": "a8ded2c980cccaf6",
+      "toSide": "right"
+    },
+    {
+      "id": "f7440102e870bcf6",
+      "fromNode": "e0e45930cf92a128",
+      "fromSide": "left",
+      "toNode": "ffe13457cac6f8e4",
+      "toSide": "right"
+    },
+    {
+      "id": "97a13ede872e70a2",
+      "fromNode": "ffe13457cac6f8e4",
+      "fromSide": "left",
+      "toNode": "9792cbef5f806672",
+      "toSide": "right"
+    },
+    {
+      "id": "90f50abc2a1bcb0b",
+      "fromNode": "ffe13457cac6f8e4",
+      "fromSide": "left",
+      "toNode": "d1a2094c6c14fb06",
+      "toSide": "right"
+    },
+    {
+      "id": "4a65fba72174b69e",
+      "fromNode": "a8ded2c980cccaf6",
+      "fromSide": "left",
+      "toNode": "21070b3d717069a7",
+      "toSide": "right",
+      "label": "Features"
+    },
+    {
+      "id": "bbed8cb11c8f6eb2",
+      "fromNode": "121f1269149e73a3",
+      "fromSide": "left",
+      "toNode": "f8d02c37c0de12b5",
+      "toSide": "right"
+    },
+    {
+      "id": "6c0b47c7b546e893",
+      "fromNode": "7c4c24a7aae606c1",
+      "fromSide": "left",
+      "toNode": "121f1269149e73a3",
+      "toSide": "right",
+      "label": "Features"
+    },
+    {
+      "id": "eb37caf2bf3b73b0",
+      "fromNode": "9792cbef5f806672",
+      "fromSide": "left",
+      "toNode": "a647edc81ce826e9",
+      "toSide": "right",
+      "label": "Features"
+    },
+    {
+      "id": "6a0192cb2737e60f",
+      "fromNode": "d1a2094c6c14fb06",
+      "fromSide": "bottom",
+      "toNode": "c5d1a4363df125b1",
+      "toSide": "right",
+      "label": "Features"
+    },
+    {
+      "id": "93fcecd8146abb7d",
+      "fromNode": "e0e45930cf92a128",
+      "fromSide": "bottom",
+      "toNode": "a1069204a93b0144",
+      "toSide": "right"
+    },
+    {
+      "id": "6b14ae36b20d5c5f",
+      "fromNode": "a1069204a93b0144",
+      "fromSide": "bottom",
+      "toNode": "18583821d3137075",
+      "toSide": "right"
+    },
+    {
+      "id": "654213b1a052488b",
+      "fromNode": "e0e45930cf92a128",
+      "fromSide": "bottom",
+      "toNode": "b9b9b2814ad1abf9",
+      "toSide": "top"
+    },
+    {
+      "id": "b56fe414795171b4",
+      "fromNode": "13a59d2b5bf607fc",
+      "fromSide": "left",
+      "toNode": "b2c9266312968f35",
+      "toSide": "right"
+    },
+    {
+      "id": "308b4cb4e6cf4406",
+      "fromNode": "13a59d2b5bf607fc",
+      "fromSide": "left",
+      "toNode": "20e95142054d5de1",
+      "toSide": "right"
+    },
+    {
+      "id": "12a0df5dbe685558",
+      "fromNode": "13a59d2b5bf607fc",
+      "fromSide": "left",
+      "toNode": "af0cfd796c2f9340",
+      "toSide": "right"
+    },
+    {
+      "id": "b86b349c51fea31c",
+      "fromNode": "13a59d2b5bf607fc",
+      "fromSide": "left",
+      "toNode": "e66c2dee326f4bd4",
+      "toSide": "right"
+    },
+    {
+      "id": "0ee867fc394d0d3a",
+      "fromNode": "91185db50cfee6fc",
+      "fromSide": "left",
+      "toNode": "13a59d2b5bf607fc",
+      "toSide": "right"
+    },
+    {
+      "id": "7a3cc1545980dee9",
+      "fromNode": "91185db50cfee6fc",
+      "fromSide": "left",
+      "toNode": "0a29f1f75f9659e2",
+      "toSide": "right"
+    },
+    {
+      "id": "c1efbb934f71fbf4",
+      "fromNode": "91185db50cfee6fc",
+      "fromSide": "left",
+      "toNode": "6b4fd0c295b9c281",
+      "toSide": "right"
+    },
+    {
+      "id": "aa4f32a1fd96f770",
+      "fromNode": "6b4fd0c295b9c281",
+      "fromSide": "left",
+      "toNode": "bcd93d0a103a8991",
+      "toSide": "right",
+      "label": "boolean"
+    },
+    {
+      "id": "7a93c93f24b898ef",
+      "fromNode": "6b4fd0c295b9c281",
+      "fromSide": "left",
+      "toNode": "3e768ed065eb8f5a",
+      "toSide": "right",
+      "label": "overlay"
+    },
+    {
+      "id": "4df3a849e78fcc13",
+      "fromNode": "641265e54235a649",
+      "fromSide": "bottom",
+      "toNode": "f9215578132ad2bf",
+      "toSide": "left",
+      "label": "other filters "
+    }
+  ]
+}

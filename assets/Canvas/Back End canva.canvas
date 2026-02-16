@@ -1,0 +1,119 @@
+{
+  "nodes": [
+    {
+      "id": "f1e476ea98235f6c",
+      "x": -309,
+      "y": -219,
+      "width": 250,
+      "height": 60,
+      "type": "text",
+      "text": "Front-End"
+    },
+    {
+      "id": "29c7ab687b298035",
+      "x": 347,
+      "y": -219,
+      "width": 250,
+      "height": 60,
+      "type": "text",
+      "text": "Back-End"
+    },
+    {
+      "id": "eb39df67927bab1a",
+      "x": 472,
+      "y": -91,
+      "width": 250,
+      "height": 60,
+      "type": "text",
+      "text": "System Design "
+    },
+    {
+      "id": "55d647b03939961a",
+      "x": 472,
+      "y": -337,
+      "width": 250,
+      "height": 60,
+      "type": "text",
+      "text": "Application "
+    },
+    {
+      "id": "2bb2eb0bb793f0ef",
+      "x": 472,
+      "y": 17,
+      "width": 313,
+      "height": 159,
+      "type": "text",
+      "text": "بيعرفك تركيبة ال components  مع بعض عشان تتطلع المنتج النهائي "
+    },
+    {
+      "id": "83f26515e46a4c96",
+      "x": 490,
+      "y": -569,
+      "width": 296,
+      "height": 144,
+      "type": "text",
+      "text": "المكان الي بتكتب فيه ال code or algorithm الخاص بيك "
+    },
+    {
+      "id": "a426d2325059af46",
+      "x": 876,
+      "y": -530,
+      "width": 266,
+      "height": 105,
+      "type": "text",
+      "text": "Database persistance"
+    }
+  ],
+  "edges": [
+    {
+      "id": "396df6877a3c30f9",
+      "fromNode": "f1e476ea98235f6c",
+      "fromSide": "right",
+      "toNode": "29c7ab687b298035",
+      "toSide": "left",
+      "label": "API(Http Response | Http Request ) "
+    },
+    {
+      "id": "76893fe3eaf285c0",
+      "fromNode": "29c7ab687b298035",
+      "fromSide": "left",
+      "toNode": "f1e476ea98235f6c",
+      "toSide": "right"
+    },
+    {
+      "id": "f227422c4ec47ef8",
+      "fromNode": "eb39df67927bab1a",
+      "fromSide": "bottom",
+      "toNode": "2bb2eb0bb793f0ef",
+      "toSide": "top"
+    },
+    {
+      "id": "228c7abf0db4f47c",
+      "fromNode": "29c7ab687b298035",
+      "fromSide": "top",
+      "toNode": "55d647b03939961a",
+      "toSide": "bottom"
+    },
+    {
+      "id": "a90f111ef4684015",
+      "fromNode": "29c7ab687b298035",
+      "fromSide": "bottom",
+      "toNode": "eb39df67927bab1a",
+      "toSide": "top"
+    },
+    {
+      "id": "4d7f0d951674fca3",
+      "fromNode": "55d647b03939961a",
+      "fromSide": "top",
+      "toNode": "83f26515e46a4c96",
+      "toSide": "bottom"
+    },
+    {
+      "id": "8ce30e1f4a704317",
+      "fromNode": "29c7ab687b298035",
+      "fromSide": "right",
+      "toNode": "a426d2325059af46",
+      "toSide": "bottom"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "trigger_auto_manual": "Automatic",
+  "use_regex_to_check_for_tags": false,
+  "statusBar_trigger_indicator": true,
+  "folder_tag_pattern": [
+    {
+      "folder": "notes/books",
+      "tag": "#📕book",
+      "pattern": ""
+    },
+    {
+      "folder": "journals/weeks",
+      "tag": "#weekly",
+      "pattern": ""
+    },
+    {
+      "folder": "journals/years",
+      "tag": "#yearly",
+      "pattern": ""
+    },
+    {
+      "folder": "journals/quarterly",
+      "tag": "#quarterly",
+      "pattern": ""
+    },
+    {
+      "folder": "notes/problem solving",
+      "tag": "#problem_solving",
+      "pattern": ""
+    },
+    {
+      "folder": "notes/outputs",
+      "tag": "#output",
+      "pattern": ""
+    }
+  ],
+  "use_regex_to_check_for_excluded_folder": false,
+  "excluded_folder": [
+    {
+      "folder": "templates"
+    }
+  ]
+}

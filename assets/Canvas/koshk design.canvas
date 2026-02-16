@@ -1,0 +1,83 @@
+{
+  "nodes": [
+    {
+      "id": "bfca46e92079f375",
+      "x": -175,
+      "y": -404,
+      "width": 250,
+      "height": 60,
+      "color": "3",
+      "type": "text",
+      "text": "User input Data"
+    },
+    {
+      "id": "81caa6a6c2756c64",
+      "x": -302,
+      "y": -222,
+      "width": 569,
+      "height": 421,
+      "type": "text",
+      "text": "Add Item to List items : \n1. text\n2. quantity (optional :: default 1 ) \n3. qr code (scan the qr code and take the name of the product from scan)"
+    },
+    {
+      "id": "78d1bc2332492a72",
+      "x": -899,
+      "y": -41,
+      "width": 250,
+      "height": 60,
+      "type": "text",
+      "text": "Cubit "
+    },
+    {
+      "id": "a66398cd3c533ead",
+      "x": -899,
+      "y": 99,
+      "width": 250,
+      "height": 60,
+      "type": "text",
+      "text": "MVVM"
+    },
+    {
+      "id": "62b651d9b8353b8c",
+      "x": -899,
+      "y": -189,
+      "width": 250,
+      "height": 60,
+      "type": "text",
+      "text": "SupaBase"
+    }
+  ],
+  "edges": [
+    {
+      "id": "546c2b86cfd3992d",
+      "fromNode": "bfca46e92079f375",
+      "fromSide": "bottom",
+      "toNode": "81caa6a6c2756c64",
+      "toSide": "top"
+    },
+    {
+      "id": "47a09e7d3d8b3a46",
+      "fromNode": "81caa6a6c2756c64",
+      "fromSide": "left",
+      "toNode": "62b651d9b8353b8c",
+      "toSide": "right",
+      "label": "Store the Data in "
+    },
+    {
+      "id": "fc8aa65f99471db0",
+      "fromNode": "81caa6a6c2756c64",
+      "fromSide": "left",
+      "toNode": "78d1bc2332492a72",
+      "toSide": "right",
+      "label": "state management "
+    },
+    {
+      "id": "100cc567bfa85b97",
+      "fromNode": "81caa6a6c2756c64",
+      "fromSide": "left",
+      "toNode": "a66398cd3c533ead",
+      "toSide": "right",
+      "label": "design pattern"
+    }
+  ]
+}

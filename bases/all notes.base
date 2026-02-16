@@ -1,0 +1,51 @@
+filters:
+  and:
+    - file.folder == "notes"
+formulas:
+  Formula: |+
+    file.ctime.format("ww")
+
+  Untitled: if(file.tags.contains("status/complete"),true , false)
+  created date: file.ctime
+properties:
+  formula.Formula:
+    displayName: Week number
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.ctime >= "2025-12-13"
+        - file.ctime <= "2025-12-19"
+        - file.hasTag("Software/Design-Pattern")
+    order:
+      - file.name
+      - tags
+      - file.ctime
+    sort:
+      - property: formula.created date
+        direction: DESC
+    summaries:
+      file.name: Empty
+    columnSize:
+      file.name: 463
+      note.tags: 328
+    indentProperties: true
+  - type: cards
+    name: View
+    sort:
+      - property: file.ctime
+        direction: DESC
+    image: note.image
+    cardSize: 240
+    imageAspectRatio: 0.55
+  - type: table
+    name: Flutter topics
+    filters:
+      and:
+        - file.hasTag("flutter")
+        - '!file.tags.containsAny("flutter/project")'
+    order:
+      - file.name
+      - tags
+    sort: []

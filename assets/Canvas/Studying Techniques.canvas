@@ -1,0 +1,552 @@
+{
+  "nodes": [
+    {
+      "id": "72c5f393025b2ed6",
+      "type": "group",
+      "x": -2688,
+      "y": -781,
+      "width": 1283,
+      "height": 1075,
+      "label": "Process"
+    },
+    {
+      "id": "decb7a7a263abdc8",
+      "type": "group",
+      "x": -664,
+      "y": 216,
+      "width": 1250,
+      "height": 342,
+      "label": "Time line "
+    },
+    {
+      "id": "12187d61a40bb2d2",
+      "type": "group",
+      "x": -2282,
+      "y": -707,
+      "width": 377,
+      "height": 572,
+      "color": "3",
+      "label": "My Studying Technique "
+    },
+    {
+      "id": "32805173dfb1cfe1",
+      "type": "text",
+      "text": "Solve More & More to collect a good and deep Idea about Topic and know what  is the key points in your lecture  ",
+      "x": -2668,
+      "y": -380,
+      "width": 312,
+      "height": 132
+    },
+    {
+      "id": "727af4a56bb26863",
+      "type": "text",
+      "text": "Start with Important concepts and move deep more to fill the gaps with important concepts \nو ده بدوره هيخليك تربط المفاهيم الجانبيه او الفرعية مع المفاهيم الاساسية و ده بيعمق فهمك و بيخليه يثبت اكتر في دماغك ",
+      "x": -2560,
+      "y": -86,
+      "width": 615,
+      "height": 315
+    },
+    {
+      "id": "3a472fcecb208cbd",
+      "type": "text",
+      "text": "Understanding ",
+      "x": -451,
+      "y": -529,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "1e4a3be7103dd48f",
+      "type": "text",
+      "text": "و اهم خطوة هي حل الاسئلة بشكل مكثف حل علي قد ما تقدر ",
+      "x": -294,
+      "y": -1141,
+      "width": 343,
+      "height": 141
+    },
+    {
+      "id": "a9f072fc2dc9a10f",
+      "type": "text",
+      "text": "Remembering ",
+      "x": 146,
+      "y": -529,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "37d47fe436903545",
+      "type": "text",
+      "text": "Mnemonics ",
+      "x": 146,
+      "y": -735,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "f8d66f40dbf3be2f",
+      "type": "text",
+      "text": "و هو انك تختصر مجموعة من المعلومات في كلمة واحد مثلا تاخد اول حرف من كل جمعة و تجمعهم في كلمه واحده او تعمل زي قصيدة او جمله بسيطه تلخص مجموعة كبيره من المعلومات او انك تتخيل مثلا مكان انت حافظه كويس و تتصور كل معلومه في المكان ،  العقل البشري بيفتكر الاحداث الغريبة او الغير منطقية بالنسبة ليا او الي تحث مشاعرك بشكل اكبر و اقوي من اي معلومة تانية . ",
+      "x": 103,
+      "y": -1413,
+      "width": 337,
+      "height": 588
+    },
+    {
+      "id": "ccef4265d0f2e2a5",
+      "type": "text",
+      "text": "طريقة بتستخدمها مع المحتوي الكبير و الي محتاج تراجع عليه ليله الامتحان مثلا او لاي سبب اخر فبدل ما تذاكر المحتوي ده كله من الاول و جديد و تقليلا لنسبة حدوث تسويف ، بتستخدم الطريقة دي لتلخليص المحتوي و ده و برده حاول علي قد ما تقدر انك تكتب المعلومه بطريقتك انت و من غير ما تنسخ الكلام المصدر علطول من الاخر حاول علي قد ما تقدر ان تخلي دماغك يشتغل في عملية التعلم مش بس يستقبل المعلومات ",
+      "x": 1314,
+      "y": 161,
+      "width": 392,
+      "height": 608
+    },
+    {
+      "id": "d72790ddaf7b5647",
+      "type": "text",
+      "text": "pre Study process ",
+      "x": -2239,
+      "y": -687,
+      "width": 250,
+      "height": 84
+    },
+    {
+      "id": "d92a59542d50dd85",
+      "type": "text",
+      "text": "Steps ",
+      "x": -644,
+      "y": 236,
+      "width": 1210,
+      "height": 80,
+      "color": "6"
+    },
+    {
+      "id": "6e4ad21c29b521f3",
+      "type": "text",
+      "text": "Save the Reference to back to it after first study like second brain ",
+      "x": -326,
+      "y": 352,
+      "width": 287,
+      "height": 165
+    },
+    {
+      "id": "71081b3c30b83536",
+      "type": "text",
+      "text": "Understanding the content ",
+      "x": -644,
+      "y": 380,
+      "width": 250,
+      "height": 99
+    },
+    {
+      "id": "9db68f8a3ac3b6ed",
+      "type": "text",
+      "text": "Test Your Self ",
+      "x": -9,
+      "y": 380,
+      "width": 250,
+      "height": 99
+    },
+    {
+      "id": "41eaf23ee5e1db05",
+      "type": "text",
+      "text": "Corneil Method",
+      "x": 917,
+      "y": 193,
+      "width": 250,
+      "height": 50
+    },
+    {
+      "id": "9e8f2173363ab1e8",
+      "type": "text",
+      "text": "Space Repetition",
+      "x": 316,
+      "y": 380,
+      "width": 250,
+      "height": 99
+    },
+    {
+      "id": "21927efd75428492",
+      "type": "text",
+      "text": "Open a new view about big concept and make it easy to understand and relate more topics with each other that make the memorizing process be easy ",
+      "x": -1758,
+      "y": -252,
+      "width": 290,
+      "height": 166
+    },
+    {
+      "id": "522fa57890815914",
+      "type": "text",
+      "text": "test 1 ..... test n ",
+      "x": -2239,
+      "y": -331,
+      "width": 250,
+      "height": 79
+    },
+    {
+      "id": "613c2622a5c0e888",
+      "type": "text",
+      "text": "Cramming",
+      "x": -2239,
+      "y": -229,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "5839a6ea80830304",
+      "type": "text",
+      "text": "Studying ",
+      "x": -2239,
+      "y": -565,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "1ca5d57f2973f710",
+      "type": "text",
+      "text": "using Mind Map to try category the big picture about the lecture before watch video ",
+      "x": -1764,
+      "y": -702,
+      "width": 280,
+      "height": 99
+    },
+    {
+      "id": "6aa20df3b7df00be",
+      "type": "text",
+      "text": "Start fill the Gaps between big Categories and dive deep into the content ",
+      "x": -1765,
+      "y": -576,
+      "width": 266,
+      "height": 101
+    },
+    {
+      "id": "2148f813ca75d83c",
+      "type": "text",
+      "text": "Success = Effort *  Process",
+      "x": -1946,
+      "y": -972,
+      "width": 404,
+      "height": 71,
+      "color": "6"
+    },
+    {
+      "id": "77bbbd326c868fdc",
+      "type": "text",
+      "text": "Use Active Recall Technique + Try to Edit or modify on the same workspace or Note ",
+      "x": -1758,
+      "y": -429,
+      "width": 274,
+      "height": 115
+    },
+    {
+      "id": "3194a9a5be48132e",
+      "type": "text",
+      "text": "review 1  ...... review n ",
+      "x": -2239,
+      "y": -475,
+      "width": 250,
+      "height": 104
+    },
+    {
+      "id": "b5ad46ca3ec92163",
+      "type": "text",
+      "text": "بتخلي دماغك مش بس بيستقبل المعلومات لا ، ده كمان يتفاعل معاها ، زي مثلا تقول لنفسك ايه الحاجات الي استفدتها من الدرس ده و تكتب ... و اهم حاجه تكتب من دماغك Brain Dump تعمل عصف ذهني  و ده بيساعدك تعرف ايه هي نقاط الضعف او الاشياء الي انت مفهمتهاش بشكل كويس من الدرس  ده ",
+      "x": 116,
+      "y": -375,
+      "width": 453,
+      "height": 183
+    },
+    {
+      "id": "343ab29d59f6b75a",
+      "type": "text",
+      "text": "How to Studying ",
+      "x": -180,
+      "y": -124,
+      "width": 207,
+      "height": 64,
+      "color": "1"
+    },
+    {
+      "id": "d159d96d1982a8f8",
+      "type": "text",
+      "text": "Active Recall ",
+      "x": -201,
+      "y": -309,
+      "width": 250,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "896438b37e066c95",
+      "type": "text",
+      "text": "Space Reptation ",
+      "x": -201,
+      "y": 39,
+      "width": 250,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "0df56b89ce844009",
+      "type": "text",
+      "text": "Flash Cards",
+      "x": 116,
+      "y": -88,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "d09678b1df09c572",
+      "type": "text",
+      "text": "اثبت الدراسات ان اعادة قراءة نفس المحتوي مرارا و تكرارا من اجل حفظه هي طريقة غير فعاله ، و لكن المهم انك تخزن المعلومات الي محتاج تحفظها في مكان واحد عشان يسهل الرجوع ليها  و اعادة هيكلتها بالطريقة دي ",
+      "x": 511,
+      "y": -976,
+      "width": 318,
+      "height": 416
+    },
+    {
+      "id": "af3d10299957f915",
+      "type": "text",
+      "text": "انك تكتب المحتوي الي انت ذاكرته من دماغك برده كأنك بتشرحه لطفل عنده 6 سنوات مثلا ، و الهدف من الطريقة تعميق فهمك للمحتوي الي ذاكرته و تشوف ايه النقاط الي انت طرحتها علي نفسك و ملقتلهاش اجابه عندك و تروح تدور عليها ",
+      "x": 885,
+      "y": -1100,
+      "width": 282,
+      "height": 540
+    },
+    {
+      "id": "196221e9792acb19",
+      "type": "text",
+      "text": "أدوات",
+      "x": 643,
+      "y": -315,
+      "width": 186,
+      "height": 62
+    },
+    {
+      "id": "fe867fe5829b132d",
+      "type": "text",
+      "text": "Mind Mapping ",
+      "x": 943,
+      "y": -145,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "9fc9fece0999bcea",
+      "type": "text",
+      "text": "تعتبر من افضل الطرق خاصة مع المحتوي المرتبط ببعضه او المتشابك كل معلومة مرتبطه باختها  ",
+      "x": 1340,
+      "y": -349,
+      "width": 316,
+      "height": 349
+    },
+    {
+      "id": "916efa9b0886edef",
+      "type": "text",
+      "text": "Feynman Technique ",
+      "x": 917,
+      "y": -499,
+      "width": 276,
+      "height": 75
+    },
+    {
+      "id": "b10557d1fdc2825a",
+      "type": "text",
+      "text": "حاول علي قد ما تقدر انك تربط المعلومة الي بتذاكرها بحاجه موجوده عندك قبل كده فده هيقوي المعلومة و يثبها اكتر في دماغك ",
+      "x": -744,
+      "y": -922,
+      "width": 293,
+      "height": 366
+    }
+  ],
+  "edges": [
+    {
+      "id": "0f2b8fda0c16e263",
+      "fromNode": "343ab29d59f6b75a",
+      "fromSide": "top",
+      "toNode": "d159d96d1982a8f8",
+      "toSide": "bottom",
+      "label": "Big Method"
+    },
+    {
+      "id": "1ef6785e6dd79385",
+      "fromNode": "343ab29d59f6b75a",
+      "fromSide": "bottom",
+      "toNode": "896438b37e066c95",
+      "toSide": "top",
+      "label": "Big Method"
+    },
+    {
+      "id": "789064fbc6f1e2ba",
+      "fromNode": "896438b37e066c95",
+      "fromSide": "left",
+      "toNode": "d159d96d1982a8f8",
+      "toSide": "left",
+      "label": "After "
+    },
+    {
+      "id": "30067aa911855731",
+      "fromNode": "d159d96d1982a8f8",
+      "fromSide": "top",
+      "toNode": "3a472fcecb208cbd",
+      "toSide": "bottom",
+      "label": "First"
+    },
+    {
+      "id": "c24eaabfdfcd7072",
+      "fromNode": "3a472fcecb208cbd",
+      "fromSide": "right",
+      "toNode": "a9f072fc2dc9a10f",
+      "toSide": "left",
+      "label": "Then"
+    },
+    {
+      "id": "d8989b1927fe87a2",
+      "fromNode": "b5ad46ca3ec92163",
+      "fromSide": "right",
+      "toNode": "196221e9792acb19",
+      "toSide": "left"
+    },
+    {
+      "id": "f3a489251fdc4ae0",
+      "fromNode": "196221e9792acb19",
+      "fromSide": "right",
+      "toNode": "916efa9b0886edef",
+      "toSide": "left"
+    },
+    {
+      "id": "862e6263317d6fbd",
+      "fromNode": "196221e9792acb19",
+      "fromSide": "right",
+      "toNode": "fe867fe5829b132d",
+      "toSide": "left"
+    },
+    {
+      "id": "5d1a5f374cc8a6b0",
+      "fromNode": "196221e9792acb19",
+      "fromSide": "right",
+      "toNode": "41eaf23ee5e1db05",
+      "toSide": "left"
+    },
+    {
+      "id": "5a99fabe1b1c8796",
+      "fromNode": "d159d96d1982a8f8",
+      "fromSide": "right",
+      "toNode": "b5ad46ca3ec92163",
+      "toSide": "left"
+    },
+    {
+      "id": "5c5f1a231bad0639",
+      "fromNode": "a9f072fc2dc9a10f",
+      "fromSide": "top",
+      "toNode": "37d47fe436903545",
+      "toSide": "bottom",
+      "label": "Tips & Tricks"
+    },
+    {
+      "id": "b6bdce26de2b3fab",
+      "fromNode": "37d47fe436903545",
+      "fromSide": "top",
+      "toNode": "f8d66f40dbf3be2f",
+      "toSide": "bottom"
+    },
+    {
+      "id": "e14d494a65f3da70",
+      "fromNode": "916efa9b0886edef",
+      "fromSide": "top",
+      "toNode": "af3d10299957f915",
+      "toSide": "bottom"
+    },
+    {
+      "id": "6b4495386717f9f8",
+      "fromNode": "3a472fcecb208cbd",
+      "fromSide": "top",
+      "toNode": "b10557d1fdc2825a",
+      "toSide": "right"
+    },
+    {
+      "id": "7c466c645a59ae02",
+      "fromNode": "fe867fe5829b132d",
+      "fromSide": "right",
+      "toNode": "9fc9fece0999bcea",
+      "toSide": "left"
+    },
+    {
+      "id": "fcc75b8b35dd182d",
+      "fromNode": "41eaf23ee5e1db05",
+      "fromSide": "right",
+      "toNode": "ccef4265d0f2e2a5",
+      "toSide": "left"
+    },
+    {
+      "id": "186e0929e10408d5",
+      "fromNode": "3a472fcecb208cbd",
+      "fromSide": "top",
+      "toNode": "1e4a3be7103dd48f",
+      "toSide": "bottom",
+      "label": "the main point"
+    },
+    {
+      "id": "024cce90b58dd5bd",
+      "fromNode": "d09678b1df09c572",
+      "fromSide": "left",
+      "toNode": "f8d66f40dbf3be2f",
+      "toSide": "right"
+    },
+    {
+      "id": "bb5a102e92a8192e",
+      "fromNode": "a9f072fc2dc9a10f",
+      "fromSide": "right",
+      "toNode": "d09678b1df09c572",
+      "toSide": "bottom"
+    },
+    {
+      "id": "eeb42b66dd7af037",
+      "fromNode": "d72790ddaf7b5647",
+      "fromSide": "right",
+      "toNode": "1ca5d57f2973f710",
+      "toSide": "left"
+    },
+    {
+      "id": "45cece2d476cd348",
+      "fromNode": "5839a6ea80830304",
+      "fromSide": "right",
+      "toNode": "6aa20df3b7df00be",
+      "toSide": "left"
+    },
+    {
+      "id": "1b31a14feba453f1",
+      "fromNode": "3194a9a5be48132e",
+      "fromSide": "right",
+      "toNode": "77bbbd326c868fdc",
+      "toSide": "left"
+    },
+    {
+      "id": "ac2f5282dcf0a7cb",
+      "fromNode": "522fa57890815914",
+      "fromSide": "left",
+      "toNode": "32805173dfb1cfe1",
+      "toSide": "right"
+    },
+    {
+      "id": "6964296cd049d2fd",
+      "fromNode": "613c2622a5c0e888",
+      "fromSide": "right",
+      "toNode": "21927efd75428492",
+      "toSide": "left"
+    },
+    {
+      "id": "a18595fac3b9a679",
+      "fromNode": "613c2622a5c0e888",
+      "fromSide": "bottom",
+      "toNode": "727af4a56bb26863",
+      "toSide": "top"
+    },
+    {
+      "id": "4ba58dee119debb6",
+      "fromNode": "2148f813ca75d83c",
+      "fromSide": "left",
+      "toNode": "72c5f393025b2ed6",
+      "toSide": "top"
+    }
+  ]
+}

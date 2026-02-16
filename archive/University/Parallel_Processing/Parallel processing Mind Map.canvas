@@ -1,0 +1,1579 @@
+{
+  "nodes": [
+    {
+      "id": "dae903f8c1e0bc93",
+      "type": "group",
+      "x": -4146,
+      "y": -270,
+      "width": 2967,
+      "height": 1312,
+      "color": "5",
+      "label": "Hazard"
+    },
+    {
+      "id": "3b6f271611552a41",
+      "type": "group",
+      "x": -4127,
+      "y": -1767,
+      "width": 2948,
+      "height": 1197,
+      "color": "2",
+      "label": "Concurrency and synchronus "
+    },
+    {
+      "id": "f8c35a18e6908dc7",
+      "type": "group",
+      "x": 484,
+      "y": -1802,
+      "width": 2134,
+      "height": 1606,
+      "color": "6",
+      "label": "Cache Coherence "
+    },
+    {
+      "id": "c665f86edccfb8f0",
+      "type": "group",
+      "x": 484,
+      "y": 256,
+      "width": 1308,
+      "height": 1600,
+      "color": "4",
+      "label": "Multiprocessing "
+    },
+    {
+      "id": "e2bda5b28a61fc19",
+      "type": "group",
+      "x": 684,
+      "y": 927,
+      "width": 989,
+      "height": 855,
+      "label": "الاجزاء الي هنوصلها ببعض "
+    },
+    {
+      "id": "0975b2c50d475196",
+      "type": "group",
+      "x": -2775,
+      "y": -1526,
+      "width": 746,
+      "height": 934,
+      "label": "concurrency chanllenges "
+    },
+    {
+      "id": "e687c08507fe8f81",
+      "type": "group",
+      "x": -4012,
+      "y": 256,
+      "width": 1100,
+      "height": 610,
+      "color": "3",
+      "label": "Fowarding (Bypassing) "
+    },
+    {
+      "id": "0d5e55249a0acfdb",
+      "type": "group",
+      "x": 1295,
+      "y": -761,
+      "width": 1228,
+      "height": 514,
+      "label": "Hardware Solutions "
+    },
+    {
+      "id": "9cbbe9aa16e6411e",
+      "type": "group",
+      "x": 789,
+      "y": 1421,
+      "width": 791,
+      "height": 341,
+      "label": "Multiprocessing "
+    },
+    {
+      "id": "937f26d038c0b517",
+      "type": "group",
+      "x": 1295,
+      "y": -1134,
+      "width": 751,
+      "height": 321,
+      "label": "Software Solutions "
+    },
+    {
+      "id": "3040cbf545e69dd7",
+      "type": "group",
+      "x": 923,
+      "y": 333,
+      "width": 407,
+      "height": 507,
+      "label": "Interconnection Types "
+    },
+    {
+      "id": "2dd636410ba9048c",
+      "type": "group",
+      "x": 743,
+      "y": 1093,
+      "width": 910,
+      "height": 224,
+      "label": "MultiComputer "
+    },
+    {
+      "id": "8deb7727eca3fef9",
+      "type": "group",
+      "x": 860,
+      "y": 1477,
+      "width": 700,
+      "height": 265,
+      "color": "2",
+      "label": "Tightly Couple"
+    },
+    {
+      "id": "ac0b124b3406fd24",
+      "type": "group",
+      "x": -3694,
+      "y": -1056,
+      "width": 290,
+      "height": 391,
+      "label": "Java Sofware "
+    },
+    {
+      "id": "b459b13c473fe9e3",
+      "type": "group",
+      "x": -3694,
+      "y": -1592,
+      "width": 290,
+      "height": 200,
+      "label": "Hardware "
+    },
+    {
+      "id": "9a09360fab33c30d",
+      "type": "group",
+      "x": -3309,
+      "y": -824,
+      "width": 225,
+      "height": 234,
+      "label": "In Java "
+    },
+    {
+      "id": "7e4213194af2a763",
+      "type": "text",
+      "text": "يعني التغييرات الي تحصل تسمع في كله ",
+      "x": -4100,
+      "y": -708,
+      "width": 295,
+      "height": 67
+    },
+    {
+      "id": "c65d6682c527b5e2",
+      "type": "text",
+      "text": "Guess  using Squashing , very efficient when True and bad when false   ",
+      "x": -2630,
+      "y": -179,
+      "width": 247,
+      "height": 105
+    },
+    {
+      "id": "f79ea1689eea3152",
+      "type": "text",
+      "text": "Branch Prediction",
+      "x": -2630,
+      "y": -15,
+      "width": 279,
+      "height": 60
+    },
+    {
+      "id": "bdaf86b72e149480",
+      "type": "text",
+      "text": "pipeline Bubble : insert NOP instruction ",
+      "x": -3163,
+      "y": 136,
+      "width": 250,
+      "height": 90
+    },
+    {
+      "id": "865d3be0aced1b4c",
+      "type": "text",
+      "text": "Stall : pause the Next instruction ",
+      "x": -3171,
+      "y": 33,
+      "width": 266,
+      "height": 70
+    },
+    {
+      "id": "bf9b2a5f25917538",
+      "type": "text",
+      "text": "سبب حدوث المشكلة دي لما ابقي مش عارف هل انا هـ branch و بالتالي هعمل Jumping ولا لأ ... فالبتالي بضطر اني اوقف ال instruction الي بعديا لحد ما اتأكد إذا كان ال branch condition is true or not ",
+      "x": -2023,
+      "y": -96,
+      "width": 322,
+      "height": 194
+    },
+    {
+      "id": "7ecfb87ce1b328d6",
+      "type": "text",
+      "text": "Make the Next instruction always Execute ",
+      "x": -3092,
+      "y": -96,
+      "width": 274,
+      "height": 69
+    },
+    {
+      "id": "70f13cb4c4a45e04",
+      "type": "text",
+      "text": "عبارة عن متتبع للحالات flag بيشوف ال status بتاعة كل thread/ process هل لسه عامله access لل resource مثلا ولا لا اشيلها خلاص و هكذا  ، و بيبقي ليها حالتين لاما wait () لاما signal ()",
+      "x": -4107,
+      "y": -1083,
+      "width": 282,
+      "height": 184
+    },
+    {
+      "id": "6a6af9a0f87c48cb",
+      "type": "text",
+      "text": "Live lock ",
+      "x": -2680,
+      "y": -1009,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "d0e9725949ad9126",
+      "type": "text",
+      "text": "critical Section problem",
+      "x": -2680,
+      "y": -823,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "9705476d0c50a595",
+      "type": "text",
+      "text": "Starvation",
+      "x": -2680,
+      "y": -915,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "3557bf6ef7f5ac94",
+      "type": "text",
+      "text": "Notify () ",
+      "x": -3275,
+      "y": -799,
+      "width": 130,
+      "height": 58
+    },
+    {
+      "id": "34e9ac86b50f46a1",
+      "type": "text",
+      "text": "NotifyAll () ",
+      "x": -3275,
+      "y": -665,
+      "width": 160,
+      "height": 60
+    },
+    {
+      "id": "baf3b02e29017996",
+      "type": "text",
+      "text": "Wait () ",
+      "x": -3267,
+      "y": -725,
+      "width": 144,
+      "height": 50
+    },
+    {
+      "id": "f726d80917265dba",
+      "type": "text",
+      "text": "في حالة ال No permit بفضل عامل block ",
+      "x": -3594,
+      "y": -1308,
+      "width": 242,
+      "height": 79
+    },
+    {
+      "id": "12b4ec4d20654fb8",
+      "type": "text",
+      "text": "Process ",
+      "x": -1371,
+      "y": -1457,
+      "width": 172,
+      "height": 63
+    },
+    {
+      "id": "f644b7ffc540c387",
+      "type": "text",
+      "text": "Acquire()  ",
+      "x": -3559,
+      "y": -1162,
+      "width": 135,
+      "height": 65
+    },
+    {
+      "id": "19ceb92f79f06bad",
+      "type": "text",
+      "text": "عبارة عن حارس ، بيمنع حدوث اكتر من عملية علي نفس ال resource في نفس الوقت ",
+      "x": -4100,
+      "y": -870,
+      "width": 295,
+      "height": 120
+    },
+    {
+      "id": "dc9860fac6f0c4f1",
+      "type": "text",
+      "text": "DeadLock",
+      "x": -2680,
+      "y": -1093,
+      "width": 250,
+      "height": 50
+    },
+    {
+      "id": "1c4fcdfec87b4fc2",
+      "type": "text",
+      "text": "ال thread ال status بتاعتها بتتغيير ولكن مفيش progress ",
+      "x": -2313,
+      "y": -1009,
+      "width": 256,
+      "height": 78
+    },
+    {
+      "id": "283345606d167de0",
+      "type": "text",
+      "text": "1.check then act \n2.read modify write ",
+      "x": -2680,
+      "y": -1229,
+      "width": 229,
+      "height": 90
+    },
+    {
+      "id": "5f4c2ec7577e509f",
+      "type": "text",
+      "text": "بيبقي فيه اكتر من thread مستنين بعض يخلصوا هبيفضلوا في حالة انتظار الي مالا نهاية ",
+      "x": -2337,
+      "y": -1139,
+      "width": 280,
+      "height": 109
+    },
+    {
+      "id": "abc7145fa7b4f8cc",
+      "type": "text",
+      "text": "more than thread access to memory in the same time leading to inconsistent or corrupt data",
+      "x": -2755,
+      "y": -1506,
+      "width": 310,
+      "height": 95
+    },
+    {
+      "id": "4fa094c0d09cd397",
+      "type": "text",
+      "text": "Volatile ",
+      "x": -3674,
+      "y": -791,
+      "width": 250,
+      "height": 50
+    },
+    {
+      "id": "b02fb1b5f513243a",
+      "type": "text",
+      "text": "Semaphore ",
+      "x": -3674,
+      "y": -1014,
+      "width": 250,
+      "height": 50
+    },
+    {
+      "id": "88008e83fc6194f4",
+      "type": "text",
+      "text": "Lock ",
+      "x": -3674,
+      "y": -900,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "139f428a419225de",
+      "type": "text",
+      "text": "test then set ",
+      "x": -4077,
+      "y": -1698,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "8b14476210195d5a",
+      "type": "text",
+      "text": "compare and swap ",
+      "x": -4077,
+      "y": -1599,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "1e2614783d30db52",
+      "type": "text",
+      "text": "Race Condition ",
+      "x": -2725,
+      "y": -1325,
+      "width": 250,
+      "height": 51
+    },
+    {
+      "id": "0970dd4fc42ebe48",
+      "type": "text",
+      "text": "ده بمثابة مساحة العمل الي المفروض حيث انها جزء من الكود بيعبر ان \nexecuted exclusively by one thread/process at a time\n  ..... و بيتم عمل control عليها من خلال ال synchronization techniques ",
+      "x": -2412,
+      "y": -793,
+      "width": 367,
+      "height": 184
+    },
+    {
+      "id": "5f96705706a349fe",
+      "type": "text",
+      "text": "ال threads الي ليها low priority ممكن لا تنفذ ",
+      "x": -2313,
+      "y": -893,
+      "width": 258,
+      "height": 70
+    },
+    {
+      "id": "d994804940c10a4e",
+      "type": "text",
+      "text": "Independant ",
+      "x": -1904,
+      "y": -1601,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "78094d1fd3110bcd",
+      "type": "text",
+      "text": "Cooperate ",
+      "x": -1727,
+      "y": -1207,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "e7c3c9de27bdbd75",
+      "type": "text",
+      "text": "solutions ",
+      "x": -3256,
+      "y": -1184,
+      "width": 141,
+      "height": 67
+    },
+    {
+      "id": "49b7a42c88e4a77d",
+      "type": "text",
+      "text": "Policies ",
+      "x": 1109,
+      "y": -1517,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "3fa8e446280a10e8",
+      "type": "text",
+      "text": "Remove private cache and make 1 global cache ",
+      "x": 1315,
+      "y": -1313,
+      "width": 245,
+      "height": 86
+    },
+    {
+      "id": "1b020699bf9d6810",
+      "type": "text",
+      "text": "make one cache Read and Write (RW) , and the other Caches Read only (RO)",
+      "x": 1315,
+      "y": -940,
+      "width": 342,
+      "height": 107
+    },
+    {
+      "id": "80b5e3d96e4de0db",
+      "type": "text",
+      "text": "Make Cache take just read-only variables or non shared variables  = cacheable values  ",
+      "x": 1315,
+      "y": -1086,
+      "width": 277,
+      "height": 122
+    },
+    {
+      "id": "535ba7ed3b68b301",
+      "type": "text",
+      "text": "update the memory when flushing the cache ",
+      "x": 1711,
+      "y": -1437,
+      "width": 242,
+      "height": 81
+    },
+    {
+      "id": "2c71b9e0304c7418",
+      "type": "text",
+      "text": "make the compiler  must tag the values cacheable or not cacheable ",
+      "x": 1732,
+      "y": -1114,
+      "width": 294,
+      "height": 119,
+      "color": "1"
+    },
+    {
+      "id": "1a152fbf4a318ef0",
+      "type": "text",
+      "text": "Atomic variables ",
+      "x": -3676,
+      "y": -1569,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "564e771dbe44d7be",
+      "type": "text",
+      "text": "Memory barriers ",
+      "x": -3676,
+      "y": -1469,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "5e10f175ffc26901",
+      "type": "text",
+      "text": "Local Memory ",
+      "x": 1260,
+      "y": 1497,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "34b13bd13df4f716",
+      "type": "text",
+      "text": "NUMA ",
+      "x": 880,
+      "y": 1527,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "1ccb93739a42f602",
+      "type": "text",
+      "text": "Shared  Memory / Global Memory ",
+      "x": 1230,
+      "y": 1611,
+      "width": 310,
+      "height": 51
+    },
+    {
+      "id": "9f396ddd8a0cfed3",
+      "type": "text",
+      "text": "SMP ",
+      "x": 880,
+      "y": 1662,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "a66852568eaee3a2",
+      "type": "text",
+      "text": "MESI Protocol ",
+      "x": 1591,
+      "y": -555,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "a55412fc8de22785",
+      "type": "text",
+      "text": "Write Back ",
+      "x": 1424,
+      "y": -1437,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "596e223f6bb1c1c8",
+      "type": "text",
+      "text": "Write Through ",
+      "x": 1424,
+      "y": -1643,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "1f5362051ba1e645",
+      "type": "text",
+      "text": "protocols ",
+      "x": 1315,
+      "y": -633,
+      "width": 250,
+      "height": 50
+    },
+    {
+      "id": "f7ef5ec80a1295b8",
+      "type": "text",
+      "text": "Loosely Couple (Clustering )\n(just local memory)",
+      "x": 809,
+      "y": 1204,
+      "width": 296,
+      "height": 88
+    },
+    {
+      "id": "dd3b34530d68fa83",
+      "type": "text",
+      "text": "Connecting with each other using Ethernet (Network)",
+      "x": 1198,
+      "y": 1114,
+      "width": 261,
+      "height": 90
+    },
+    {
+      "id": "6d52167262072ea5",
+      "type": "text",
+      "text": "Multi port ",
+      "x": 943,
+      "y": 468,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "4653b04468f9ede4",
+      "type": "text",
+      "text": "Cross bar switch ",
+      "x": 943,
+      "y": 568,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "258ed7fca73f45c6",
+      "type": "text",
+      "text": "Multi Stage Switch",
+      "x": 943,
+      "y": 648,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "0c5ec9e33635e92b",
+      "type": "text",
+      "text": "Hyper cube ",
+      "x": 943,
+      "y": 745,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "9232d76377b086f9",
+      "type": "text",
+      "text": "Packet (Address , Data , Error Data (status ) ) ",
+      "x": 1209,
+      "y": 1238,
+      "width": 424,
+      "height": 59
+    },
+    {
+      "id": "65a5a35ba53e6d1e",
+      "type": "text",
+      "text": "2 ^ n = Number of clusters ",
+      "x": 1383,
+      "y": 745,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "e879e0497bb1ac64",
+      "type": "text",
+      "text": "Time Shared common Bus ",
+      "x": 943,
+      "y": 353,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "aaa3c0a1a8ba617c",
+      "type": "text",
+      "text": "Using XOR to access the target cluster ",
+      "x": 1421,
+      "y": 648,
+      "width": 276,
+      "height": 70
+    },
+    {
+      "id": "317be24bba1f58dc",
+      "type": "text",
+      "text": "Snoopy Protocol / تجسس ",
+      "x": 1607,
+      "y": -724,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "3d92900cd6d6f306",
+      "type": "text",
+      "text": "Read hit \nRead Miss \nWrite hit \nWrite Miss ",
+      "x": 1908,
+      "y": -423,
+      "width": 250,
+      "height": 148
+    },
+    {
+      "id": "64c6604ff687736a",
+      "type": "text",
+      "text": "Cache Control Monitor to check the Shared bus if there are any updates ",
+      "x": 1915,
+      "y": -728,
+      "width": 306,
+      "height": 95
+    },
+    {
+      "id": "635d42e04278eb5c",
+      "type": "file",
+      "file": "02 Media/Pasted image 20241223193602.jpg",
+      "x": -884,
+      "y": -2528,
+      "width": 875,
+      "height": 372
+    },
+    {
+      "id": "97062c5949fb52b8",
+      "type": "file",
+      "file": "02 Media/Pasted image 20241223202737.jpg",
+      "x": 1908,
+      "y": -601,
+      "width": 527,
+      "height": 152
+    },
+    {
+      "id": "0d47cbdf19036203",
+      "type": "text",
+      "text": "Expand the Hardware , and don't make the instruction and data in the same memory ",
+      "x": -2427,
+      "y": 615,
+      "width": 309,
+      "height": 106
+    },
+    {
+      "id": "a6ecb72fcf36c03e",
+      "type": "text",
+      "text": "solutions ",
+      "x": -2301,
+      "y": 510,
+      "width": 150,
+      "height": 66
+    },
+    {
+      "id": "95998f7e69c0a26f",
+      "type": "text",
+      "text": "السبب الاساسي لحدوثة هو عدم توفر الموارد الكافية بحيث ان المكان الي باخد منه ال instruction هو هو  المكان الي باخد منه ال Memory و ده بيسبب Conflict  ",
+      "x": -1945,
+      "y": 791,
+      "width": 273,
+      "height": 193
+    },
+    {
+      "id": "956776d0906696b9",
+      "type": "text",
+      "text": "solutions ",
+      "x": 896,
+      "y": -1055,
+      "width": 156,
+      "height": 60
+    },
+    {
+      "id": "3bbce51379dbda6a",
+      "type": "text",
+      "text": "Parallel processing ",
+      "x": -447,
+      "y": -220,
+      "width": 491,
+      "height": 178,
+      "color": "1"
+    },
+    {
+      "id": "527c5d46bf1618bb",
+      "type": "text",
+      "text": "اخلي كل ال caches و ال memory القيم الي فيهم واحده يعني لو حد فيهم سواء الميموري او الكاش عدل علي قيمة موجوده عنده باقي الاجزاء يبقي عندهم القيمه الي اتعدلت",
+      "x": 522,
+      "y": -1625,
+      "width": 374,
+      "height": 168
+    },
+    {
+      "id": "68f1d16a99c9d72c",
+      "type": "text",
+      "text": "Cache Goal  : Reduce the AVG access time in uniprocessors ",
+      "x": 523,
+      "y": -1070,
+      "width": 269,
+      "height": 91
+    },
+    {
+      "id": "c73717ca8ac6ec3c",
+      "type": "text",
+      "text": "Cache Coherence ",
+      "x": 523,
+      "y": -1196,
+      "width": 250,
+      "height": 50
+    },
+    {
+      "id": "7206748ac1868016",
+      "type": "text",
+      "text": "make the memory up to date ",
+      "x": 1732,
+      "y": -1681,
+      "width": 257,
+      "height": 75
+    },
+    {
+      "id": "1823856c5a76951b",
+      "type": "text",
+      "text": "Types",
+      "x": -1646,
+      "y": 505,
+      "width": 112,
+      "height": 82
+    },
+    {
+      "id": "bdc6fbd373fe50f6",
+      "type": "text",
+      "text": "Data Hazard ",
+      "x": -1945,
+      "y": 526,
+      "width": 250,
+      "height": 50
+    },
+    {
+      "id": "510ac224b154f893",
+      "type": "text",
+      "text": "MEM/WB",
+      "x": -3430,
+      "y": 638,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "e40081772908b111",
+      "type": "text",
+      "text": "Types",
+      "x": -3102,
+      "y": 638,
+      "width": 123,
+      "height": 60
+    },
+    {
+      "id": "59e42d9cf8acd9ae",
+      "type": "text",
+      "text": "sending the value from EX Stage  ",
+      "x": -3430,
+      "y": 757,
+      "width": 267,
+      "height": 89
+    },
+    {
+      "id": "6bdeee2b76403626",
+      "type": "text",
+      "text": "Structural or Resource  Hazard ",
+      "x": -1945,
+      "y": 636,
+      "width": 326,
+      "height": 54
+    },
+    {
+      "id": "94d436b45e33c46c",
+      "type": "text",
+      "text": "sending wanted value from Execute Stage don't wait until store in memory ",
+      "x": -3494,
+      "y": 286,
+      "width": 270,
+      "height": 97
+    },
+    {
+      "id": "9ffe36617b17f54a",
+      "type": "file",
+      "file": "02 Media/Pasted image 20241223193651.jpg",
+      "x": -3992,
+      "y": 424,
+      "width": 400,
+      "height": 178
+    },
+    {
+      "id": "b8d9663aca1816b7",
+      "type": "file",
+      "file": "02 Media/Pasted image 20241223193902.jpg",
+      "x": -3992,
+      "y": 668,
+      "width": 400,
+      "height": 178
+    },
+    {
+      "id": "921851baa33a5c25",
+      "type": "text",
+      "text": "Forwarding (bypassing) ",
+      "x": -2630,
+      "y": 256,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "7f48c52c6a399084",
+      "type": "text",
+      "text": "Stall  / pipeline bubble ",
+      "x": -2630,
+      "y": 166,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "eb0d3a8d0e63de5a",
+      "type": "text",
+      "text": "prevent the next instruction in the pipeline from executing  ",
+      "x": -1513,
+      "y": 329,
+      "width": 276,
+      "height": 99
+    },
+    {
+      "id": "4c9c87b419a4db00",
+      "type": "text",
+      "text": "معناها اني محتاج استخدم متغير من instruction تاني و لكن المتغير الي انا عايزه لسه متخزنش في ال Memory يعني ال instruction الي قبليا معملتلوش Write back to memory لسه معملتش كده ",
+      "x": -1987,
+      "y": 278,
+      "width": 334,
+      "height": 171
+    },
+    {
+      "id": "bcfd908121b24eda",
+      "type": "text",
+      "text": "Delay Branch | Delay Slot ",
+      "x": -2615,
+      "y": 68,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "3d05c289cad41bf1",
+      "type": "text",
+      "text": "solutions ",
+      "x": -2184,
+      "y": 100,
+      "width": 131,
+      "height": 66
+    },
+    {
+      "id": "18d32ea54443475e",
+      "type": "text",
+      "text": "Control or branch Hazard ",
+      "x": -2012,
+      "y": 196,
+      "width": 300,
+      "height": 60
+    },
+    {
+      "id": "d68024bca970e7b2",
+      "type": "text",
+      "text": "Hazard ",
+      "x": -1500,
+      "y": 516,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "08450c936f76dff2",
+      "type": "text",
+      "text": "Out of Order ",
+      "x": -2630,
+      "y": 334,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "812730b8104db831",
+      "type": "text",
+      "text": "EXE/MEM",
+      "x": -3445,
+      "y": 470,
+      "width": 250,
+      "height": 60
+    }
+  ],
+  "edges": [
+    {
+      "id": "daa9ac1a64a8c51a",
+      "fromNode": "d68024bca970e7b2",
+      "fromSide": "left",
+      "toNode": "1823856c5a76951b",
+      "toSide": "right"
+    },
+    {
+      "id": "dcc5665a50dd5903",
+      "fromNode": "1823856c5a76951b",
+      "fromSide": "top",
+      "toNode": "18d32ea54443475e",
+      "toSide": "right"
+    },
+    {
+      "id": "9bbfcd670f52ce86",
+      "fromNode": "1823856c5a76951b",
+      "fromSide": "left",
+      "toNode": "bdc6fbd373fe50f6",
+      "toSide": "right"
+    },
+    {
+      "id": "c4a2980ac9f93e89",
+      "fromNode": "1823856c5a76951b",
+      "fromSide": "bottom",
+      "toNode": "6bdeee2b76403626",
+      "toSide": "right"
+    },
+    {
+      "id": "2973bdad2618a75c",
+      "fromNode": "6bdeee2b76403626",
+      "fromSide": "bottom",
+      "toNode": "95998f7e69c0a26f",
+      "toSide": "top",
+      "label": "why"
+    },
+    {
+      "id": "2b6a2985c104956f",
+      "fromNode": "6bdeee2b76403626",
+      "fromSide": "left",
+      "toNode": "0d47cbdf19036203",
+      "toSide": "right",
+      "label": "solution"
+    },
+    {
+      "id": "fd3014be68b62c8c",
+      "fromNode": "bdc6fbd373fe50f6",
+      "fromSide": "top",
+      "toNode": "4c9c87b419a4db00",
+      "toSide": "bottom",
+      "label": "why"
+    },
+    {
+      "id": "217436954e84bf6d",
+      "fromNode": "d68024bca970e7b2",
+      "fromSide": "top",
+      "toNode": "eb0d3a8d0e63de5a",
+      "toSide": "bottom",
+      "label": "what"
+    },
+    {
+      "id": "1a2f002200e0af9b",
+      "fromNode": "18d32ea54443475e",
+      "fromSide": "top",
+      "toNode": "bf9b2a5f25917538",
+      "toSide": "bottom",
+      "label": "why"
+    },
+    {
+      "id": "1acac397386bc2ed",
+      "fromNode": "18d32ea54443475e",
+      "fromSide": "left",
+      "toNode": "3d05c289cad41bf1",
+      "toSide": "right"
+    },
+    {
+      "id": "82a14657a03fdba1",
+      "fromNode": "3d05c289cad41bf1",
+      "fromSide": "left",
+      "toNode": "f79ea1689eea3152",
+      "toSide": "right"
+    },
+    {
+      "id": "de6cd02e96e4ee8f",
+      "fromNode": "3d05c289cad41bf1",
+      "fromSide": "left",
+      "toNode": "bcfd908121b24eda",
+      "toSide": "right"
+    },
+    {
+      "id": "0a5cc88a360528fb",
+      "fromNode": "3d05c289cad41bf1",
+      "fromSide": "left",
+      "toNode": "7f48c52c6a399084",
+      "toSide": "right"
+    },
+    {
+      "id": "13c80f68e0639334",
+      "fromNode": "bdc6fbd373fe50f6",
+      "fromSide": "left",
+      "toNode": "a6ecb72fcf36c03e",
+      "toSide": "right"
+    },
+    {
+      "id": "4532f75ef7cf35cc",
+      "fromNode": "a6ecb72fcf36c03e",
+      "fromSide": "left",
+      "toNode": "08450c936f76dff2",
+      "toSide": "right"
+    },
+    {
+      "id": "2a7eb07f409e15ae",
+      "fromNode": "a6ecb72fcf36c03e",
+      "fromSide": "left",
+      "toNode": "7f48c52c6a399084",
+      "toSide": "right"
+    },
+    {
+      "id": "529a3e7b65b721f0",
+      "fromNode": "a6ecb72fcf36c03e",
+      "fromSide": "left",
+      "toNode": "921851baa33a5c25",
+      "toSide": "right"
+    },
+    {
+      "id": "55c7f28f1698a28b",
+      "fromNode": "921851baa33a5c25",
+      "fromSide": "left",
+      "toNode": "e40081772908b111",
+      "toSide": "right"
+    },
+    {
+      "id": "8dd58fd9f48f2508",
+      "fromNode": "e40081772908b111",
+      "fromSide": "left",
+      "toNode": "812730b8104db831",
+      "toSide": "right"
+    },
+    {
+      "id": "ef5aa23f88fef19d",
+      "fromNode": "e40081772908b111",
+      "fromSide": "left",
+      "toNode": "510ac224b154f893",
+      "toSide": "right"
+    },
+    {
+      "id": "53595d3140627ec2",
+      "fromNode": "812730b8104db831",
+      "fromSide": "top",
+      "toNode": "94d436b45e33c46c",
+      "toSide": "bottom"
+    },
+    {
+      "id": "3bd80dc5cfcb5d2b",
+      "fromNode": "812730b8104db831",
+      "fromSide": "left",
+      "toNode": "9ffe36617b17f54a",
+      "toSide": "right",
+      "label": "How"
+    },
+    {
+      "id": "f8d82b41a3aba36d",
+      "fromNode": "510ac224b154f893",
+      "fromSide": "left",
+      "toNode": "b8d9663aca1816b7",
+      "toSide": "right",
+      "label": "How"
+    },
+    {
+      "id": "f1feadcc4b5277e7",
+      "fromNode": "510ac224b154f893",
+      "fromSide": "bottom",
+      "toNode": "59e42d9cf8acd9ae",
+      "toSide": "top"
+    },
+    {
+      "id": "237e93ffe76cab90",
+      "fromNode": "7f48c52c6a399084",
+      "fromSide": "left",
+      "toNode": "865d3be0aced1b4c",
+      "toSide": "right"
+    },
+    {
+      "id": "37f5afcd518bdcf1",
+      "fromNode": "7f48c52c6a399084",
+      "fromSide": "left",
+      "toNode": "bdaf86b72e149480",
+      "toSide": "right"
+    },
+    {
+      "id": "cd3a93a480241eed",
+      "fromNode": "f79ea1689eea3152",
+      "fromSide": "top",
+      "toNode": "c65d6682c527b5e2",
+      "toSide": "bottom"
+    },
+    {
+      "id": "c955c07c99aba842",
+      "fromNode": "bcfd908121b24eda",
+      "fromSide": "left",
+      "toNode": "7ecfb87ce1b328d6",
+      "toSide": "right"
+    },
+    {
+      "id": "9d48853ab8814b7d",
+      "fromNode": "3bbce51379dbda6a",
+      "fromSide": "left",
+      "toNode": "dae903f8c1e0bc93",
+      "toSide": "right"
+    },
+    {
+      "id": "ed130fcb2a42ea34",
+      "fromNode": "34b13bd13df4f716",
+      "fromSide": "right",
+      "toNode": "1ccb93739a42f602",
+      "toSide": "left"
+    },
+    {
+      "id": "bd5b72c433fc0aa0",
+      "fromNode": "9f396ddd8a0cfed3",
+      "fromSide": "right",
+      "toNode": "1ccb93739a42f602",
+      "toSide": "left"
+    },
+    {
+      "id": "9bb9bac033eadcb5",
+      "fromNode": "34b13bd13df4f716",
+      "fromSide": "right",
+      "toNode": "5e10f175ffc26901",
+      "toSide": "left"
+    },
+    {
+      "id": "44f0cf27fd3f727c",
+      "fromNode": "f7ef5ec80a1295b8",
+      "fromSide": "right",
+      "toNode": "9232d76377b086f9",
+      "toSide": "left"
+    },
+    {
+      "id": "044df0bdb96c6c96",
+      "fromNode": "f7ef5ec80a1295b8",
+      "fromSide": "top",
+      "toNode": "dd3b34530d68fa83",
+      "toSide": "left"
+    },
+    {
+      "id": "4caac854435c88fc",
+      "fromNode": "0c5ec9e33635e92b",
+      "fromSide": "right",
+      "toNode": "aaa3c0a1a8ba617c",
+      "toSide": "left"
+    },
+    {
+      "id": "0cb54e9ee5d27988",
+      "fromNode": "0c5ec9e33635e92b",
+      "fromSide": "bottom",
+      "toNode": "f7ef5ec80a1295b8",
+      "toSide": "top",
+      "label": "Just Used with "
+    },
+    {
+      "id": "41f8cc3f88ad4875",
+      "fromNode": "0c5ec9e33635e92b",
+      "fromSide": "right",
+      "toNode": "65a5a35ba53e6d1e",
+      "toSide": "left"
+    },
+    {
+      "id": "b76434815fb115ff",
+      "fromNode": "3bbce51379dbda6a",
+      "fromSide": "bottom",
+      "toNode": "c665f86edccfb8f0",
+      "toSide": "left"
+    },
+    {
+      "id": "0e0f658c2fd95427",
+      "fromNode": "49b7a42c88e4a77d",
+      "fromSide": "right",
+      "toNode": "596e223f6bb1c1c8",
+      "toSide": "left"
+    },
+    {
+      "id": "96e968b06608a228",
+      "fromNode": "49b7a42c88e4a77d",
+      "fromSide": "right",
+      "toNode": "a55412fc8de22785",
+      "toSide": "left"
+    },
+    {
+      "id": "fda6802b2c4f4761",
+      "fromNode": "596e223f6bb1c1c8",
+      "fromSide": "right",
+      "toNode": "7206748ac1868016",
+      "toSide": "left"
+    },
+    {
+      "id": "dc0de8c89d68f07a",
+      "fromNode": "a55412fc8de22785",
+      "fromSide": "right",
+      "toNode": "535ba7ed3b68b301",
+      "toSide": "left"
+    },
+    {
+      "id": "e6243e05a50e4393",
+      "fromNode": "c73717ca8ac6ec3c",
+      "fromSide": "top",
+      "toNode": "527c5d46bf1618bb",
+      "toSide": "bottom",
+      "label": "What "
+    },
+    {
+      "id": "b357d41729b3bdc2",
+      "fromNode": "c73717ca8ac6ec3c",
+      "fromSide": "right",
+      "toNode": "49b7a42c88e4a77d",
+      "toSide": "left",
+      "label": "Pre solution "
+    },
+    {
+      "id": "234eeb13eb9a19b1",
+      "fromNode": "c73717ca8ac6ec3c",
+      "fromSide": "right",
+      "toNode": "956776d0906696b9",
+      "toSide": "left"
+    },
+    {
+      "id": "e854b4960592767d",
+      "fromNode": "956776d0906696b9",
+      "fromSide": "right",
+      "toNode": "3fa8e446280a10e8",
+      "toSide": "left",
+      "label": "1"
+    },
+    {
+      "id": "1684ecd08bfe90da",
+      "fromNode": "80b5e3d96e4de0db",
+      "fromSide": "right",
+      "toNode": "2c71b9e0304c7418",
+      "toSide": "left"
+    },
+    {
+      "id": "c378520c3c8d6a34",
+      "fromNode": "956776d0906696b9",
+      "fromSide": "right",
+      "toNode": "80b5e3d96e4de0db",
+      "toSide": "left",
+      "label": "2"
+    },
+    {
+      "id": "7073de08719bec39",
+      "fromNode": "956776d0906696b9",
+      "fromSide": "right",
+      "toNode": "1b020699bf9d6810",
+      "toSide": "left",
+      "label": "3"
+    },
+    {
+      "id": "5b51b5b254a76539",
+      "fromNode": "956776d0906696b9",
+      "fromSide": "right",
+      "toNode": "1f5362051ba1e645",
+      "toSide": "left",
+      "label": "4"
+    },
+    {
+      "id": "e1fb2e2d517ca1b6",
+      "fromNode": "1f5362051ba1e645",
+      "fromSide": "top",
+      "toNode": "317be24bba1f58dc",
+      "toSide": "left"
+    },
+    {
+      "id": "cc94ab13c240ab8b",
+      "fromNode": "1f5362051ba1e645",
+      "fromSide": "bottom",
+      "toNode": "a66852568eaee3a2",
+      "toSide": "left"
+    },
+    {
+      "id": "9e7abba6523de819",
+      "fromNode": "a66852568eaee3a2",
+      "fromSide": "right",
+      "toNode": "97062c5949fb52b8",
+      "toSide": "left"
+    },
+    {
+      "id": "18bc25249229e0ad",
+      "fromNode": "317be24bba1f58dc",
+      "fromSide": "right",
+      "toNode": "64c6604ff687736a",
+      "toSide": "left"
+    },
+    {
+      "id": "668c3f116b57eb22",
+      "fromNode": "3bbce51379dbda6a",
+      "fromSide": "top",
+      "toNode": "f8c35a18e6908dc7",
+      "toSide": "left"
+    },
+    {
+      "id": "57fcad2c5e012138",
+      "fromNode": "c73717ca8ac6ec3c",
+      "fromSide": "bottom",
+      "toNode": "68f1d16a99c9d72c",
+      "toSide": "top"
+    },
+    {
+      "id": "754e7b4adc181b5a",
+      "fromNode": "a66852568eaee3a2",
+      "fromSide": "bottom",
+      "toNode": "3d92900cd6d6f306",
+      "toSide": "left",
+      "label": "Cases "
+    },
+    {
+      "id": "6ff47573f0b3a1da",
+      "fromNode": "1e2614783d30db52",
+      "fromSide": "top",
+      "toNode": "abc7145fa7b4f8cc",
+      "toSide": "bottom",
+      "label": "Mean"
+    },
+    {
+      "id": "336f4a3b1c6836a7",
+      "fromNode": "12b4ec4d20654fb8",
+      "fromSide": "left",
+      "toNode": "78094d1fd3110bcd",
+      "toSide": "right"
+    },
+    {
+      "id": "dbee2f3ce461626f",
+      "fromNode": "12b4ec4d20654fb8",
+      "fromSide": "left",
+      "toNode": "d994804940c10a4e",
+      "toSide": "right"
+    },
+    {
+      "id": "03238deee7843c81",
+      "fromNode": "e7c3c9de27bdbd75",
+      "fromSide": "left",
+      "toNode": "b459b13c473fe9e3",
+      "toSide": "right"
+    },
+    {
+      "id": "bf80ca9fd1496f5e",
+      "fromNode": "e7c3c9de27bdbd75",
+      "fromSide": "left",
+      "toNode": "ac0b124b3406fd24",
+      "toSide": "right"
+    },
+    {
+      "id": "54d660c7c8f27e7e",
+      "fromNode": "1e2614783d30db52",
+      "fromSide": "bottom",
+      "toNode": "283345606d167de0",
+      "toSide": "top",
+      "label": "types"
+    },
+    {
+      "id": "79ad34750fe45f81",
+      "fromNode": "88008e83fc6194f4",
+      "fromSide": "left",
+      "toNode": "19ceb92f79f06bad",
+      "toSide": "right"
+    },
+    {
+      "id": "7a10de880a525ed9",
+      "fromNode": "1a152fbf4a318ef0",
+      "fromSide": "left",
+      "toNode": "139f428a419225de",
+      "toSide": "right"
+    },
+    {
+      "id": "6e98c8ae8164b3d6",
+      "fromNode": "1a152fbf4a318ef0",
+      "fromSide": "left",
+      "toNode": "8b14476210195d5a",
+      "toSide": "right"
+    },
+    {
+      "id": "468183096fa7b870",
+      "fromNode": "4fa094c0d09cd397",
+      "fromSide": "right",
+      "toNode": "3557bf6ef7f5ac94",
+      "toSide": "left"
+    },
+    {
+      "id": "7fb2a470ec30ac4c",
+      "fromNode": "4fa094c0d09cd397",
+      "fromSide": "right",
+      "toNode": "baf3b02e29017996",
+      "toSide": "left"
+    },
+    {
+      "id": "2647f16ff1cf2dc7",
+      "fromNode": "4fa094c0d09cd397",
+      "fromSide": "right",
+      "toNode": "34e9ac86b50f46a1",
+      "toSide": "left"
+    },
+    {
+      "id": "759e3eaedc54a05a",
+      "fromNode": "4fa094c0d09cd397",
+      "fromSide": "left",
+      "toNode": "7e4213194af2a763",
+      "toSide": "right"
+    },
+    {
+      "id": "c50f02c45a947536",
+      "fromNode": "b02fb1b5f513243a",
+      "fromSide": "left",
+      "toNode": "70f13cb4c4a45e04",
+      "toSide": "right"
+    },
+    {
+      "id": "dee0e28fafb93dad",
+      "fromNode": "dc9860fac6f0c4f1",
+      "fromSide": "right",
+      "toNode": "5f4c2ec7577e509f",
+      "toSide": "left"
+    },
+    {
+      "id": "4bd3e106ddaf28cb",
+      "fromNode": "6a6af9a0f87c48cb",
+      "fromSide": "right",
+      "toNode": "1c4fcdfec87b4fc2",
+      "toSide": "left"
+    },
+    {
+      "id": "192099efc19d47c1",
+      "fromNode": "9705476d0c50a595",
+      "fromSide": "right",
+      "toNode": "5f96705706a349fe",
+      "toSide": "left"
+    },
+    {
+      "id": "eb557a60f69c9660",
+      "fromNode": "78094d1fd3110bcd",
+      "fromSide": "left",
+      "toNode": "0975b2c50d475196",
+      "toSide": "right"
+    },
+    {
+      "id": "2729d1435023d3dc",
+      "fromNode": "0975b2c50d475196",
+      "fromSide": "left",
+      "toNode": "e7c3c9de27bdbd75",
+      "toSide": "right"
+    },
+    {
+      "id": "358fdbbccafe053f",
+      "fromNode": "d0e9725949ad9126",
+      "fromSide": "bottom",
+      "toNode": "0970dd4fc42ebe48",
+      "toSide": "left"
+    },
+    {
+      "id": "e41afda2cd950dd1",
+      "fromNode": "3bbce51379dbda6a",
+      "fromSide": "top",
+      "toNode": "3b6f271611552a41",
+      "toSide": "right"
+    },
+    {
+      "id": "fcfaeef59a727e40",
+      "fromNode": "6bdeee2b76403626",
+      "fromSide": "left",
+      "toNode": "7f48c52c6a399084",
+      "toSide": "right"
+    },
+    {
+      "id": "f3c7eca4ea331689",
+      "fromNode": "f644b7ffc540c387",
+      "fromSide": "top",
+      "toNode": "f726d80917265dba",
+      "toSide": "bottom"
+    },
+    {
+      "id": "6cea9f93eab16a6e",
+      "fromNode": "b02fb1b5f513243a",
+      "fromSide": "top",
+      "toNode": "f644b7ffc540c387",
+      "toSide": "bottom"
+    }
+  ]
+}

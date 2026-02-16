@@ -1,0 +1,814 @@
+{
+  "nodes": [
+    {
+      "id": "c6f3083863d1dc7e",
+      "type": "text",
+      "text": "لان الانسان بطبعه و بجبلته يحب ان يشغل نفسه ، فاما ان تشغل بهدف و بوعي لما يرضي الله عز و جل ، او  ان تسير في هذه الحياة سبهللا بلا هدف او دافع مثلك مثل الانعام",
+      "x": 369,
+      "y": -210,
+      "width": 447,
+      "height": 290
+    },
+    {
+      "id": "5d8c3dc68038b909",
+      "type": "text",
+      "text": "حتي تسد ثغر في امة الاسلام ",
+      "x": 369,
+      "y": 209,
+      "width": 250,
+      "height": 89
+    },
+    {
+      "id": "b9d4684c2126144e",
+      "type": "text",
+      "text": "و لقول ابن القيم رحمه الله: \"فهي النفس إن لم تشغلها بالحق شغلتك بالباطل \" ",
+      "x": 369,
+      "y": 92,
+      "width": 762,
+      "height": 117
+    },
+    {
+      "id": "e3837f29f04717aa",
+      "type": "text",
+      "text": "لماذا / ليه؟ ",
+      "x": 91,
+      "y": -29,
+      "width": 153,
+      "height": 109,
+      "color": "6"
+    },
+    {
+      "id": "989087cade0f025a",
+      "type": "text",
+      "text": "قد افلح من زكاها ",
+      "x": 369,
+      "y": 318,
+      "width": 344,
+      "height": 80
+    },
+    {
+      "id": "7527d55e5f2eb741",
+      "type": "text",
+      "text": "كيف",
+      "x": -464,
+      "y": 92,
+      "width": 125,
+      "height": 56
+    },
+    {
+      "id": "12a110424502da42",
+      "type": "text",
+      "text": "الله ثم النفس و الاخرين ",
+      "x": -1846,
+      "y": 178,
+      "width": 302,
+      "height": 117
+    },
+    {
+      "id": "e90720989507d6b9",
+      "type": "text",
+      "text": "فقه اليوم و الليله لعبد الرحمن ذاكر الهاشمي ",
+      "x": -1657,
+      "y": -147,
+      "width": 355,
+      "height": 173
+    },
+    {
+      "id": "34d2193c9636668a",
+      "type": "text",
+      "text": "1. قراءة خاصة ( فقه الاستخلاف) \n2. قراءة عامة (عن نفسي ، عن الله ، عن الاخرين و كيفية التعامل مع الغير ) \n3. الصلاة علي وقتها \n4. الورد اليومي من القرآن الكريم و صلاة الضحي و اذكار الصباح و المساء \n5. الرياضة ",
+      "x": -2214,
+      "y": -547,
+      "width": 317,
+      "height": 573
+    },
+    {
+      "id": "328523b6915b41f0",
+      "type": "text",
+      "text": "لكي استطيع معرفة اهدافي يجب علي اولا معرفة نفسي ",
+      "x": -1820,
+      "y": 345,
+      "width": 251,
+      "height": 186
+    },
+    {
+      "id": "aa43f9c37ebc69c4",
+      "type": "text",
+      "text": "كيفية تنظيم حياتك لتحقيق هذه الاهداف ",
+      "x": -881,
+      "y": -116,
+      "width": 273,
+      "height": 64
+    },
+    {
+      "id": "7918501ad2828f97",
+      "type": "text",
+      "text": "اليات التنظيم",
+      "x": -535,
+      "y": -290,
+      "width": 177,
+      "height": 110
+    },
+    {
+      "id": "38072457dab00351",
+      "type": "text",
+      "text": "PARA System\n1. Projects \n2. Area\n3. Resources\n4. Archive ",
+      "x": -568,
+      "y": -802,
+      "width": 273,
+      "height": 298
+    },
+    {
+      "id": "03fbfa07e8ddde2f",
+      "type": "text",
+      "text": "GTD (Getting Things Done) \n1. Capture\n2. Clarify\n3. Organize\n4. Engage\n5. Review",
+      "x": -238,
+      "y": -802,
+      "width": 329,
+      "height": 361
+    },
+    {
+      "id": "4523ab3f2e4b1e12",
+      "type": "text",
+      "text": "تعلمت منه نظام الارشفة ، ان المشاريع التي انجزتها لا اتخلص منها بل اقوم بإرشفتها ",
+      "x": -548,
+      "y": -1135,
+      "width": 354,
+      "height": 228
+    },
+    {
+      "id": "8889c6c40e7bdb3e",
+      "type": "text",
+      "text": "بناء العقل الثاني لك ",
+      "x": -176,
+      "y": -300,
+      "width": 228,
+      "height": 90
+    },
+    {
+      "id": "c557f64237f4432e",
+      "type": "text",
+      "text": "الوقت ",
+      "x": -802,
+      "y": -290,
+      "width": 146,
+      "height": 50
+    },
+    {
+      "id": "4ef4148209c92296",
+      "type": "text",
+      "text": "تهيئة النفس و معرفة طرق الدراسة ( تعلم كيف تتعلم ) ",
+      "x": -589,
+      "y": 318,
+      "width": 250,
+      "height": 75
+    },
+    {
+      "id": "a8a299de2f1017c1",
+      "type": "text",
+      "text": "لماذا ",
+      "x": -525,
+      "y": 439,
+      "width": 155,
+      "height": 92
+    },
+    {
+      "id": "d0f17f6e421a0103",
+      "type": "text",
+      "text": "لتحسين الوضع الشّخصي، أو المستوى الفكري، أو غيرها من الأمور\n",
+      "x": 408,
+      "y": 470,
+      "width": 359,
+      "height": 132
+    },
+    {
+      "id": "53930290c8a65b49",
+      "type": "text",
+      "text": "ماذا / ما هو ",
+      "x": 119,
+      "y": 531,
+      "width": 162,
+      "height": 98
+    },
+    {
+      "id": "de9b27c81a5ddd37",
+      "type": "text",
+      "text": "تزكية النفس و تهذيبها لما يرضي الله عز و جل ",
+      "x": 408,
+      "y": 661,
+      "width": 501,
+      "height": 110
+    },
+    {
+      "id": "36f68f46c3577a1e",
+      "type": "text",
+      "text": "MindMap",
+      "x": -1318,
+      "y": 376,
+      "width": 169,
+      "height": 63
+    },
+    {
+      "id": "b51bd117a3eb2f4f",
+      "type": "text",
+      "text": "solve questions",
+      "x": -1364,
+      "y": 472,
+      "width": 227,
+      "height": 125
+    },
+    {
+      "id": "a3870dfa7dbc9150",
+      "type": "text",
+      "text": "تزكية النفس (تقدير النفس )\nو يكون ذلك بالعلم و العمل ",
+      "x": -2515,
+      "y": 590,
+      "width": 242,
+      "height": 101
+    },
+    {
+      "id": "597301b70957768b",
+      "type": "text",
+      "text": "قبول النفس \nالانس بالاخرين و بالله عز و جل ",
+      "x": -2214,
+      "y": 640,
+      "width": 282,
+      "height": 101
+    },
+    {
+      "id": "a4ede38ee19e2ac0",
+      "type": "text",
+      "text": "قراءة النفس و معرفة ماذا تريد و كيفية تهذيبها ",
+      "x": -1766,
+      "y": 641,
+      "width": 222,
+      "height": 170
+    },
+    {
+      "id": "3431383db586e56d",
+      "type": "text",
+      "text": "الاحباط و قلة الدافع ",
+      "x": -1915,
+      "y": 1166,
+      "width": 250,
+      "height": 96,
+      "color": "4"
+    },
+    {
+      "id": "3e0ec9d2ee25d232",
+      "type": "text",
+      "text": "استعجال النتيجة  ",
+      "x": -1471,
+      "y": 1295,
+      "width": 174,
+      "height": 71
+    },
+    {
+      "id": "8a886c6afb843419",
+      "type": "text",
+      "text": "التركيز  علي النتيجة و ليس العمل ",
+      "x": -1893,
+      "y": 1330,
+      "width": 288,
+      "height": 71
+    },
+    {
+      "id": "ba3672d1925603dd",
+      "type": "text",
+      "text": "الانقطاع عن السوشيال ميديا ",
+      "x": -1509,
+      "y": 1553,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "8ae1648ab414aff0",
+      "type": "text",
+      "text": "تذكر قوله تعالي :  \" و إن ليس للانسان الا ما سعي و إن سعيه سوف يري  \"",
+      "x": -1954,
+      "y": 1625,
+      "width": 410,
+      "height": 96
+    },
+    {
+      "id": "f72a73da15f66bc1",
+      "type": "text",
+      "text": "تذكر ان الجودة تتناسب عكسيا مع السرعة ، و تذكر ان هناك فرق بين ان تنجز شيء بسرعه لانه بسيط و بين ان حياتك كلها تسير برتم سريع ",
+      "x": -1154,
+      "y": 1511,
+      "width": 339,
+      "height": 145
+    },
+    {
+      "id": "899e298e7da57424",
+      "type": "text",
+      "text": "قاعدة 80/20 pareto principle",
+      "x": -958,
+      "y": 194,
+      "width": 312,
+      "height": 124
+    },
+    {
+      "id": "baed7389cc8339c0",
+      "type": "text",
+      "text": "فكرة تعدد الاهتمامات و تعدد الاهداف ",
+      "x": -1832,
+      "y": -661,
+      "width": 230,
+      "height": 135
+    },
+    {
+      "id": "2958516d0dc81d9f",
+      "type": "text",
+      "text": "اشتغل علي اهدافك علي التوالي و ليس التوازي بقدر الامكان \nthe one thing ",
+      "x": -1847,
+      "y": -1071,
+      "width": 260,
+      "height": 272
+    },
+    {
+      "id": "12bbcab86605a848",
+      "type": "text",
+      "text": "التركيز علي ما تحتاج و ليس ما تريد ",
+      "x": -1131,
+      "y": -215,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "30632214b87fc2ac",
+      "type": "text",
+      "text": "طرق المذاكرة الفعاله",
+      "x": -896,
+      "y": 346,
+      "width": 250,
+      "height": 93
+    },
+    {
+      "id": "b03a004b90f22dd0",
+      "type": "text",
+      "text": "فهم المادة بشكل قوي من اجل سهولة حفظها ، و لسهولة ربطها بشيء موجود بالفعل في ذاكرتي ",
+      "x": -990,
+      "y": 705,
+      "width": 364,
+      "height": 211
+    },
+    {
+      "id": "3d4086e81e79cfeb",
+      "type": "text",
+      "text": "Active Recall : make the brain work from inside to outside not only reverse ",
+      "x": -896,
+      "y": 481,
+      "width": 250,
+      "height": 116
+    },
+    {
+      "id": "5fb8e09aaa412ad8",
+      "type": "text",
+      "text": "تزكية النفس | تطوير الذات ",
+      "x": -204,
+      "y": 90,
+      "width": 295,
+      "height": 88,
+      "color": "1"
+    },
+    {
+      "id": "ff8f0ede5bbdea21",
+      "type": "text",
+      "text": "عام ال 12 اسبوع",
+      "x": -1479,
+      "y": -722,
+      "width": 250,
+      "height": 127
+    },
+    {
+      "id": "8934177f5886e27e",
+      "type": "text",
+      "text": "اي مهمة هتاخد منك اكتر من الي  انت متوقعه ، فاعمل حساب لكده اثناء التخطيط ",
+      "x": -1189,
+      "y": -799,
+      "width": 284,
+      "height": 232
+    },
+    {
+      "id": "46c3be96fc288951",
+      "type": "text",
+      "text": "فكرة ال blocking حجز الوقت  ",
+      "x": -802,
+      "y": -484,
+      "width": 250,
+      "height": 85
+    },
+    {
+      "id": "73fdedd07abe43db",
+      "type": "text",
+      "text": "parkinson's law \nاي مهمة هتتسع للوقت المحدد لها ",
+      "x": -870,
+      "y": -856,
+      "width": 252,
+      "height": 229
+    },
+    {
+      "id": "7f81450aef56743b",
+      "type": "text",
+      "text": "تعلمت منه البساطه و ان كلما كان النظام الخاص بك بسيط كلما كان اكثر فاعليه",
+      "x": 153,
+      "y": -1042,
+      "width": 404,
+      "height": 207
+    },
+    {
+      "id": "b3b37dd045f00cc8",
+      "type": "text",
+      "text": "كيفية تحديد اهدافك ",
+      "x": -1256,
+      "y": 82,
+      "width": 250,
+      "height": 112
+    },
+    {
+      "id": "fb62ac226bc8ff97",
+      "type": "text",
+      "text": "لتحقيق تلك الاهداف بشكل اكثر فاعليه و في وقت مناسب ليس بالقليل الذي يبخز حقه و ليس بالكثير الذي يؤدي الي ضياع الوقت  ",
+      "x": -546,
+      "y": 624,
+      "width": 456,
+      "height": 215
+    },
+    {
+      "id": "f28fda2519d4e0fb",
+      "type": "text",
+      "text": "حتي لا تكون فارغا من الداخل ",
+      "x": 369,
+      "y": -365,
+      "width": 250,
+      "height": 131
+    },
+    {
+      "id": "ecccb1e9dbea25bd",
+      "type": "text",
+      "text": "تحديد نقطة بداية و نقطة نهاية ",
+      "x": -858,
+      "y": 62,
+      "width": 250,
+      "height": 116
+    }
+  ],
+  "edges": [
+    {
+      "id": "64005134ad317eeb",
+      "fromNode": "b3b37dd045f00cc8",
+      "fromSide": "top",
+      "toNode": "e90720989507d6b9",
+      "toSide": "right"
+    },
+    {
+      "id": "9b40927e59d725da",
+      "fromNode": "b3b37dd045f00cc8",
+      "fromSide": "bottom",
+      "toNode": "328523b6915b41f0",
+      "toSide": "right",
+      "label": "حجر الاساس"
+    },
+    {
+      "id": "0af8125a83a02197",
+      "fromNode": "e90720989507d6b9",
+      "fromSide": "left",
+      "toNode": "34d2193c9636668a",
+      "toSide": "right"
+    },
+    {
+      "id": "0768de80dd1d787f",
+      "fromNode": "b3b37dd045f00cc8",
+      "fromSide": "left",
+      "toNode": "12a110424502da42",
+      "toSide": "top",
+      "label": "قاعدة ثابتة"
+    },
+    {
+      "id": "017d30a320840b0d",
+      "fromNode": "328523b6915b41f0",
+      "fromSide": "bottom",
+      "toNode": "597301b70957768b",
+      "toSide": "top"
+    },
+    {
+      "id": "4f524a774845a298",
+      "fromNode": "328523b6915b41f0",
+      "fromSide": "left",
+      "toNode": "a3870dfa7dbc9150",
+      "toSide": "top"
+    },
+    {
+      "id": "c2d95f15b81fe2b7",
+      "fromNode": "a4ede38ee19e2ac0",
+      "fromSide": "bottom",
+      "toNode": "3431383db586e56d",
+      "toSide": "top",
+      "label": "اشياء تحدث في كل نفس "
+    },
+    {
+      "id": "ec50a29a3e581c57",
+      "fromNode": "3431383db586e56d",
+      "fromSide": "right",
+      "toNode": "3e0ec9d2ee25d232",
+      "toSide": "top",
+      "label": "اسباب"
+    },
+    {
+      "id": "963b56c078733649",
+      "fromNode": "3e0ec9d2ee25d232",
+      "fromSide": "bottom",
+      "toNode": "ba3672d1925603dd",
+      "toSide": "top",
+      "label": "حلول "
+    },
+    {
+      "id": "5472549f881dd121",
+      "fromNode": "3431383db586e56d",
+      "fromSide": "bottom",
+      "toNode": "8a886c6afb843419",
+      "toSide": "top",
+      "label": "اسباب"
+    },
+    {
+      "id": "a6b02ac7abfe7fa6",
+      "fromNode": "8a886c6afb843419",
+      "fromSide": "bottom",
+      "toNode": "8ae1648ab414aff0",
+      "toSide": "top",
+      "label": "حلول "
+    },
+    {
+      "id": "9ed5657d5ec6f066",
+      "fromNode": "3e0ec9d2ee25d232",
+      "fromSide": "right",
+      "toNode": "f72a73da15f66bc1",
+      "toSide": "top",
+      "label": "حلول"
+    },
+    {
+      "id": "4ddb7a17bf5a48f8",
+      "fromNode": "5fb8e09aaa412ad8",
+      "fromSide": "top",
+      "toNode": "e3837f29f04717aa",
+      "toSide": "left"
+    },
+    {
+      "id": "ef8cfccb8cda0794",
+      "fromNode": "e3837f29f04717aa",
+      "fromSide": "top",
+      "toNode": "f28fda2519d4e0fb",
+      "toSide": "left"
+    },
+    {
+      "id": "a343c1d380db3326",
+      "fromNode": "e3837f29f04717aa",
+      "fromSide": "bottom",
+      "toNode": "5d8c3dc68038b909",
+      "toSide": "left"
+    },
+    {
+      "id": "e2bf5efcfd0e8672",
+      "fromNode": "e3837f29f04717aa",
+      "fromSide": "top",
+      "toNode": "c6f3083863d1dc7e",
+      "toSide": "left"
+    },
+    {
+      "id": "39f4632ca8751fd6",
+      "fromNode": "e3837f29f04717aa",
+      "fromSide": "bottom",
+      "toNode": "b9d4684c2126144e",
+      "toSide": "left"
+    },
+    {
+      "id": "b535931a760cc8cd",
+      "fromNode": "e3837f29f04717aa",
+      "fromSide": "bottom",
+      "toNode": "989087cade0f025a",
+      "toSide": "left"
+    },
+    {
+      "id": "0d2f60f20606c346",
+      "fromNode": "53930290c8a65b49",
+      "fromSide": "right",
+      "toNode": "d0f17f6e421a0103",
+      "toSide": "left"
+    },
+    {
+      "id": "8f5ad556e4b9c71f",
+      "fromNode": "5fb8e09aaa412ad8",
+      "fromSide": "bottom",
+      "toNode": "53930290c8a65b49",
+      "toSide": "left"
+    },
+    {
+      "id": "0da15c571ee83447",
+      "fromNode": "5fb8e09aaa412ad8",
+      "fromSide": "left",
+      "toNode": "7527d55e5f2eb741",
+      "toSide": "right"
+    },
+    {
+      "id": "8a882d99e463a923",
+      "fromNode": "7527d55e5f2eb741",
+      "fromSide": "left",
+      "toNode": "ecccb1e9dbea25bd",
+      "toSide": "right"
+    },
+    {
+      "id": "c19e3f07a7299f07",
+      "fromNode": "ecccb1e9dbea25bd",
+      "fromSide": "left",
+      "toNode": "b3b37dd045f00cc8",
+      "toSide": "right"
+    },
+    {
+      "id": "b85b7ff016750ce6",
+      "fromNode": "7527d55e5f2eb741",
+      "fromSide": "left",
+      "toNode": "aa43f9c37ebc69c4",
+      "toSide": "right"
+    },
+    {
+      "id": "0b1cc13ff2951dbc",
+      "fromNode": "aa43f9c37ebc69c4",
+      "fromSide": "right",
+      "toNode": "7918501ad2828f97",
+      "toSide": "bottom"
+    },
+    {
+      "id": "387b4621ed176cb8",
+      "fromNode": "8889c6c40e7bdb3e",
+      "fromSide": "top",
+      "toNode": "03fbfa07e8ddde2f",
+      "toSide": "bottom"
+    },
+    {
+      "id": "6a78d66695d2e6a7",
+      "fromNode": "8889c6c40e7bdb3e",
+      "fromSide": "left",
+      "toNode": "38072457dab00351",
+      "toSide": "bottom"
+    },
+    {
+      "id": "b51edd2c041ad12d",
+      "fromNode": "03fbfa07e8ddde2f",
+      "fromSide": "right",
+      "toNode": "7f81450aef56743b",
+      "toSide": "bottom"
+    },
+    {
+      "id": "be7f653325d4fee7",
+      "fromNode": "38072457dab00351",
+      "fromSide": "top",
+      "toNode": "4523ab3f2e4b1e12",
+      "toSide": "bottom"
+    },
+    {
+      "id": "340fb81b99d5fff3",
+      "fromNode": "7918501ad2828f97",
+      "fromSide": "right",
+      "toNode": "8889c6c40e7bdb3e",
+      "toSide": "bottom"
+    },
+    {
+      "id": "a61c06c4354dabf9",
+      "fromNode": "7918501ad2828f97",
+      "fromSide": "left",
+      "toNode": "c557f64237f4432e",
+      "toSide": "bottom"
+    },
+    {
+      "id": "e457fffa6702ea22",
+      "fromNode": "7527d55e5f2eb741",
+      "fromSide": "bottom",
+      "toNode": "4ef4148209c92296",
+      "toSide": "right"
+    },
+    {
+      "id": "ae7339eb36206a59",
+      "fromNode": "4ef4148209c92296",
+      "fromSide": "bottom",
+      "toNode": "a8a299de2f1017c1",
+      "toSide": "top"
+    },
+    {
+      "id": "61c49fbee3fe83eb",
+      "fromNode": "a8a299de2f1017c1",
+      "fromSide": "bottom",
+      "toNode": "fb62ac226bc8ff97",
+      "toSide": "top"
+    },
+    {
+      "id": "f918bb075ce40558",
+      "fromNode": "53930290c8a65b49",
+      "fromSide": "right",
+      "toNode": "de9b27c81a5ddd37",
+      "toSide": "left"
+    },
+    {
+      "id": "a2e5ffcf2eafca11",
+      "fromNode": "4ef4148209c92296",
+      "fromSide": "left",
+      "toNode": "30632214b87fc2ac",
+      "toSide": "right"
+    },
+    {
+      "id": "f23d1d7bfb41d027",
+      "fromNode": "30632214b87fc2ac",
+      "fromSide": "bottom",
+      "toNode": "3d4086e81e79cfeb",
+      "toSide": "top"
+    },
+    {
+      "id": "eb1dc8c7a908b263",
+      "fromNode": "3d4086e81e79cfeb",
+      "fromSide": "left",
+      "toNode": "36f68f46c3577a1e",
+      "toSide": "right",
+      "label": "وسيلة"
+    },
+    {
+      "id": "72188fcaecde2584",
+      "fromNode": "3d4086e81e79cfeb",
+      "fromSide": "left",
+      "toNode": "b51bd117a3eb2f4f",
+      "toSide": "right",
+      "label": "وسيلة"
+    },
+    {
+      "id": "123b6aef23c1bb22",
+      "fromNode": "328523b6915b41f0",
+      "fromSide": "bottom",
+      "toNode": "a4ede38ee19e2ac0",
+      "toSide": "top"
+    },
+    {
+      "id": "0d18914103004cd2",
+      "fromNode": "3d4086e81e79cfeb",
+      "fromSide": "bottom",
+      "toNode": "b03a004b90f22dd0",
+      "toSide": "top",
+      "label": "غاية"
+    },
+    {
+      "id": "8e845c0577a53b3a",
+      "fromNode": "4ef4148209c92296",
+      "fromSide": "top",
+      "toNode": "899e298e7da57424",
+      "toSide": "right"
+    },
+    {
+      "id": "30be334a127cb86e",
+      "fromNode": "c557f64237f4432e",
+      "fromSide": "right",
+      "toNode": "46c3be96fc288951",
+      "toSide": "right"
+    },
+    {
+      "id": "29c2bfa92cb4539d",
+      "fromNode": "46c3be96fc288951",
+      "fromSide": "top",
+      "toNode": "73fdedd07abe43db",
+      "toSide": "bottom",
+      "label": "الاصل"
+    },
+    {
+      "id": "d10c30f7b3ff7bd7",
+      "fromNode": "c557f64237f4432e",
+      "fromSide": "top",
+      "toNode": "8934177f5886e27e",
+      "toSide": "bottom"
+    },
+    {
+      "id": "b00e59d37fc1b9c5",
+      "fromNode": "b3b37dd045f00cc8",
+      "fromSide": "top",
+      "toNode": "baed7389cc8339c0",
+      "toSide": "right"
+    },
+    {
+      "id": "9973225adf4e3584",
+      "fromNode": "baed7389cc8339c0",
+      "fromSide": "top",
+      "toNode": "2958516d0dc81d9f",
+      "toSide": "bottom"
+    },
+    {
+      "id": "db52cc7d9a963ee4",
+      "fromNode": "c557f64237f4432e",
+      "fromSide": "left",
+      "toNode": "ff8f0ede5bbdea21",
+      "toSide": "left"
+    },
+    {
+      "id": "a5852d065f7a0059",
+      "fromNode": "b3b37dd045f00cc8",
+      "fromSide": "top",
+      "toNode": "12bbcab86605a848",
+      "toSide": "bottom"
+    }
+  ]
+}

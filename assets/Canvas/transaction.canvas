@@ -1,0 +1,81 @@
+{
+  "nodes": [
+    {
+      "id": "3aa2e26829fa34a9",
+      "x": -469,
+      "y": -263,
+      "width": 250,
+      "height": 357,
+      "type": "text",
+      "text": ""
+    },
+    {
+      "id": "8e8a425ff5916562",
+      "x": 72,
+      "y": -240,
+      "width": 250,
+      "height": 60,
+      "type": "text",
+      "text": "\tOrders"
+    },
+    {
+      "id": "79710465623bbf5c",
+      "x": 72,
+      "y": -57,
+      "width": 250,
+      "height": 60,
+      "type": "text",
+      "text": "sales"
+    },
+    {
+      "id": "67694362b0f1c0ff",
+      "x": -469,
+      "y": 3,
+      "width": 250,
+      "height": 60,
+      "type": "text",
+      "text": ""
+    },
+    {
+      "id": "b2e02ab1d48d40ba",
+      "x": 60,
+      "y": 69,
+      "width": 275,
+      "height": 50,
+      "type": "text",
+      "text": "id , total price, created date "
+    },
+    {
+      "id": "0bea650477b10989",
+      "x": 73,
+      "y": -354,
+      "width": 250,
+      "height": 91,
+      "type": "text",
+      "text": "id, sales id , product id , saled quantity"
+    }
+  ],
+  "edges": [
+    {
+      "id": "95056f4ed7228a10",
+      "fromNode": "3aa2e26829fa34a9",
+      "fromSide": "right",
+      "toNode": "79710465623bbf5c",
+      "toSide": "left"
+    },
+    {
+      "id": "ba0978c4ae0235e1",
+      "fromNode": "79710465623bbf5c",
+      "fromSide": "bottom",
+      "toNode": "b2e02ab1d48d40ba",
+      "toSide": "top"
+    },
+    {
+      "id": "424e3120c803049c",
+      "fromNode": "3aa2e26829fa34a9",
+      "fromSide": "right",
+      "toNode": "8e8a425ff5916562",
+      "toSide": "left"
+    }
+  ]
+}

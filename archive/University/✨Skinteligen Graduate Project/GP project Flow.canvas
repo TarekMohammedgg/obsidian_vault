@@ -1,0 +1,214 @@
+{
+  "nodes": [
+    {
+      "id": "2ae0b5b3b14d9b37",
+      "type": "group",
+      "x": -851,
+      "y": -327,
+      "width": 1334,
+      "height": 441,
+      "color": "3",
+      "label": "Flutter Application "
+    },
+    {
+      "id": "e0f7c9a41086baae",
+      "type": "group",
+      "x": 507,
+      "y": -353,
+      "width": 626,
+      "height": 494,
+      "label": "BackEnd "
+    },
+    {
+      "id": "d2167518b306201e",
+      "type": "group",
+      "x": 1271,
+      "y": 16,
+      "width": 401,
+      "height": 207,
+      "color": "4",
+      "label": "FrontEnd"
+    },
+    {
+      "id": "afafde4396f18a8e",
+      "type": "text",
+      "text": "Camera ",
+      "x": -495,
+      "y": -243,
+      "width": 151,
+      "height": 60
+    },
+    {
+      "id": "622050c6511b315e",
+      "type": "text",
+      "text": "",
+      "x": -37,
+      "y": -224,
+      "width": 305,
+      "height": 314
+    },
+    {
+      "id": "a016acf1b528fb00",
+      "type": "text",
+      "x": -717,
+      "y": -158,
+      "width": 222,
+      "height": 182,
+      "text": "![Screenshot 2025-06-07 224933.webp](https://lh3.googleusercontent.com/d/1EjL6IiURLc5ss6Lxr3g-uCoU3hB2G2WO)"
+    },
+    {
+      "id": "dd704c9f63829aa2",
+      "type": "text",
+      "text": "Model chatbot with Patient ",
+      "x": -79,
+      "y": -290,
+      "width": 390,
+      "height": 64
+    },
+    {
+      "id": "634f780dbcdc4804",
+      "type": "text",
+      "text": "Translate Endpoint ",
+      "x": 527,
+      "y": -66,
+      "width": 284,
+      "height": 70
+    },
+    {
+      "id": "6311f0affbc885c3",
+      "type": "text",
+      "text": "Image ",
+      "x": 913,
+      "y": -333,
+      "width": 200,
+      "height": 50
+    },
+    {
+      "id": "b140eb5ebde15092",
+      "type": "text",
+      "text": "Arabic",
+      "x": 913,
+      "y": -225,
+      "width": 200,
+      "height": 60
+    },
+    {
+      "id": "b8f994eaad0a7418",
+      "type": "text",
+      "text": "English",
+      "x": 913,
+      "y": 61,
+      "width": 200,
+      "height": 60
+    },
+    {
+      "id": "1b8bc272e95ee1f1",
+      "type": "text",
+      "text": "Book ",
+      "x": 913,
+      "y": 262,
+      "width": 200,
+      "height": 54
+    },
+    {
+      "id": "6e67acd60009e647",
+      "type": "text",
+      "text": "Model Summarization",
+      "x": 1291,
+      "y": -132,
+      "width": 294,
+      "height": 66
+    },
+    {
+      "id": "58bc47004db2348a",
+      "type": "text",
+      "text": "Model chatbot with Doctor ",
+      "x": 1291,
+      "y": 36,
+      "width": 361,
+      "height": 50
+    },
+    {
+      "id": "ee7c92fb73384a14",
+      "type": "text",
+      "text": "Model Diagnosis ",
+      "x": 1291,
+      "y": -313,
+      "width": 250,
+      "height": 60
+    }
+  ],
+  "edges": [
+    {
+      "id": "06477e0b3a115a96",
+      "fromNode": "a016acf1b528fb00",
+      "fromSide": "right",
+      "toNode": "622050c6511b315e",
+      "toSide": "left",
+      "label": "Navigate Automaticly"
+    },
+    {
+      "id": "1c14508b30249993",
+      "fromNode": "622050c6511b315e",
+      "fromSide": "right",
+      "toNode": "634f780dbcdc4804",
+      "toSide": "left"
+    },
+    {
+      "id": "ef307df6c3cbb62f",
+      "fromNode": "634f780dbcdc4804",
+      "fromSide": "right",
+      "toNode": "b140eb5ebde15092",
+      "toSide": "left"
+    },
+    {
+      "id": "eb16358aaf3d40d3",
+      "fromNode": "634f780dbcdc4804",
+      "fromSide": "right",
+      "toNode": "b8f994eaad0a7418",
+      "toSide": "left"
+    },
+    {
+      "id": "e7e3b4c7ef6903fd",
+      "fromNode": "622050c6511b315e",
+      "fromSide": "right",
+      "toNode": "6311f0affbc885c3",
+      "toSide": "left"
+    },
+    {
+      "id": "a513f15d2493d8f6",
+      "fromNode": "6311f0affbc885c3",
+      "fromSide": "right",
+      "toNode": "ee7c92fb73384a14",
+      "toSide": "left"
+    },
+    {
+      "id": "73aafc7e6c937ec7",
+      "fromNode": "b140eb5ebde15092",
+      "fromSide": "right",
+      "toNode": "ee7c92fb73384a14",
+      "toSide": "left"
+    },
+    {
+      "id": "806935dbefe6e9f9",
+      "fromNode": "b8f994eaad0a7418",
+      "fromSide": "right",
+      "toNode": "6e67acd60009e647",
+      "toSide": "left"
+    },
+    {
+      "id": "fc69ef567d23288d",
+      "fromNode": "b8f994eaad0a7418",
+      "fromSide": "right",
+      "toNode": "58bc47004db2348a",
+      "toSide": "left"
+    },
+    {
+      "id": "8dfa253344cb1bb1",
+      "fromNode": "1b8bc272e95ee1f1",
+      "fromSide": "right",
+      "toNode": "58bc47004db2348a",
+      "toSide": "left"
+    }
+  ]
+}

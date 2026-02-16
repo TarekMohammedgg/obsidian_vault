@@ -1,0 +1,21 @@
+{
+  "cssTheme": "",
+  "baseFontSize": 17,
+  "theme": "obsidian",
+  "baseFontSizeAction": true,
+  "textFontFamily": "",
+  "interfaceFontFamily": "",
+  "accentColor": "#5c61f5",
+  "enabledCssSnippets": [
+    "obsidian",
+    "supercharged-links-gen",
+    "tag-default-theme",
+    "outline-style",
+    "response-platform",
+    "property-size"
+  ],
+  "monospaceFontFamily": "",
+  "nativeMenus": true,
+  "showViewHeader": true,
+  "showRibbon": true
+}

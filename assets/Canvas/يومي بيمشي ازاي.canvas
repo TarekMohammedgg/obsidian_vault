@@ -1,0 +1,212 @@
+{
+  "nodes": [
+    {
+      "id": "97387c1012847770",
+      "x": 291,
+      "y": -46,
+      "width": 250,
+      "height": 60,
+      "type": "text",
+      "text": "اليوم \n"
+    },
+    {
+      "id": "5856f4faad46188f",
+      "x": -53,
+      "y": 97,
+      "width": 250,
+      "height": 60,
+      "color": "6",
+      "type": "text",
+      "text": "الرياضة و الصحة \n"
+    },
+    {
+      "id": "d8bd0a9bebed73e2",
+      "x": -23,
+      "y": -224,
+      "width": 250,
+      "height": 60,
+      "color": "3",
+      "type": "text",
+      "text": "فقة الاستخلاف \n"
+    },
+    {
+      "id": "53ca757729f7ebb2",
+      "x": -325,
+      "y": -46,
+      "width": 250,
+      "height": 60,
+      "color": "4",
+      "type": "text",
+      "text": "القراءة العامة "
+    },
+    {
+      "id": "7c6e2f0e11755d3f",
+      "x": -364,
+      "y": -224,
+      "width": 250,
+      "height": 60,
+      "color": "3",
+      "type": "text",
+      "text": "المهارات التكنينكال كمبرمج "
+    },
+    {
+      "id": "d04a6a144547a41a",
+      "x": -364,
+      "y": -136,
+      "width": 250,
+      "height": 60,
+      "color": "3",
+      "type": "text",
+      "text": "المهارات ال soft ليك كمبرمج \n"
+    },
+    {
+      "id": "aa8432590a19e9a1",
+      "x": -364,
+      "y": -322,
+      "width": 250,
+      "height": 60,
+      "color": "3",
+      "type": "text",
+      "text": "فلاتر و تطوير المجال الحالي بتاعي "
+    },
+    {
+      "id": "f289afd54cca5003",
+      "x": -716,
+      "y": -136,
+      "width": 250,
+      "height": 60,
+      "color": "3",
+      "type": "text",
+      "text": "mckinsey"
+    },
+    {
+      "id": "ff6874d68eacce0a",
+      "x": -716,
+      "y": -224,
+      "width": 250,
+      "height": 60,
+      "color": "3",
+      "type": "text",
+      "text": "Github and design pattern \n"
+    },
+    {
+      "id": "7d594b62fdcf7b57",
+      "x": -716,
+      "y": 67,
+      "width": 250,
+      "height": 60,
+      "color": "4",
+      "type": "text",
+      "text": "Reading"
+    },
+    {
+      "id": "0a9336083e79ee65",
+      "x": -716,
+      "y": -16,
+      "width": 250,
+      "height": 60,
+      "color": "4",
+      "type": "text",
+      "text": "English "
+    },
+    {
+      "id": "d6c1b65e1874419a",
+      "x": -217,
+      "y": 261,
+      "width": 250,
+      "height": 60,
+      "color": "6",
+      "type": "text",
+      "text": "الجيم \n"
+    },
+    {
+      "id": "0aa38a48a91f223e",
+      "x": 102,
+      "y": 261,
+      "width": 250,
+      "height": 60,
+      "color": "6",
+      "type": "text",
+      "text": "الاكل الصحي \n"
+    }
+  ],
+  "edges": [
+    {
+      "id": "a12a87b2b8188d9c",
+      "fromNode": "97387c1012847770",
+      "fromSide": "top",
+      "toNode": "d8bd0a9bebed73e2",
+      "toSide": "right"
+    },
+    {
+      "id": "36c167c25646b737",
+      "fromNode": "97387c1012847770",
+      "fromSide": "left",
+      "toNode": "53ca757729f7ebb2",
+      "toSide": "right"
+    },
+    {
+      "id": "eaffc7c7058b57c8",
+      "fromNode": "97387c1012847770",
+      "fromSide": "bottom",
+      "toNode": "5856f4faad46188f",
+      "toSide": "right"
+    },
+    {
+      "id": "74752b90ca7fee12",
+      "fromNode": "d8bd0a9bebed73e2",
+      "fromSide": "left",
+      "toNode": "aa8432590a19e9a1",
+      "toSide": "right"
+    },
+    {
+      "id": "21b80504dd426728",
+      "fromNode": "d8bd0a9bebed73e2",
+      "fromSide": "left",
+      "toNode": "7c6e2f0e11755d3f",
+      "toSide": "right"
+    },
+    {
+      "id": "0c1a899654eba4bf",
+      "fromNode": "d04a6a144547a41a",
+      "fromSide": "left",
+      "toNode": "f289afd54cca5003",
+      "toSide": "right"
+    },
+    {
+      "id": "f856ac8154fdd52b",
+      "fromNode": "53ca757729f7ebb2",
+      "fromSide": "left",
+      "toNode": "0a9336083e79ee65",
+      "toSide": "right"
+    },
+    {
+      "id": "9b7ec0755aea950d",
+      "fromNode": "53ca757729f7ebb2",
+      "fromSide": "left",
+      "toNode": "7d594b62fdcf7b57",
+      "toSide": "right"
+    },
+    {
+      "id": "2c53811e278bee57",
+      "fromNode": "5856f4faad46188f",
+      "fromSide": "bottom",
+      "toNode": "d6c1b65e1874419a",
+      "toSide": "top"
+    },
+    {
+      "id": "44f3483f3aee8597",
+      "fromNode": "5856f4faad46188f",
+      "fromSide": "bottom",
+      "toNode": "0aa38a48a91f223e",
+      "toSide": "top"
+    },
+    {
+      "id": "f1da953836bd2299",
+      "fromNode": "7c6e2f0e11755d3f",
+      "fromSide": "left",
+      "toNode": "ff6874d68eacce0a",
+      "toSide": "right"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+%% Begin Waypoint %%
+- **accounting**
+	- [[accounting - Accrual Based Principle.excalidraw]]
+	- [[accounting - lecture 02 (chapter 02 ) -  The Recording process - accounting cycle]]
+	- [[accounting - lecture 03 (chapter 03 ) - Adjusting entries]]
+	- [[accounting - Midterm Summary]]
+	- [[accounting -lecture 01 (chapter 01 ) - Basics of Accounting]]
+- **computer_intelligence**
+	- [[computer_intelligence - clustering analysis]]
+	- [[computer_intelligence - Differential Evolution]]
+	- [[computer_intelligence - Part A - Genetic Algorithms]]
+	- [[cross validation]]
+	- [[Evolutionary algorithms]]
+	- [[Genetic Algorithm]]
+	- [[mutation]]
+	- [[recombination - crossover]]
+	- [[representation of the solution problems in EA]]
+	- [[selection in EA]]
+	- [[Types of Ai Agents]]
+- **data_science**
+	- [[data science - overview]]
+	- [[data science - summary]]
+- **ethics**
+	- [[01 - 02 - Ethics lecture 01&02 - introduction and cryptography]]
+	- [[03 - Ethics lecture 03 - Ethical Hacking]]
+	- [[04 - Ethics lecture 04 - Intellectual Property]]
+	- [[05 - Ethics lecture 05 - Malware]]
+	- [[06 - Ethics lecture 06 - Social Engineering]]
+	- [[07 - Ethics lecture 07 - Ethical Decision in Software Quality]]
+	- [[Ethical Questions]]
+- **image_processing**
+	- [[01 - image processing - halftoning and histogram Equalization - lecture 01]]
+	- [[02 - Edge detection - Image processing - lecture 2]]
+	- [[03 - Advanced Edge Detection and filtering - image processing - lecture 3&4]]
+	- [[07 - image processing lecture 7&8 chapter 9 and 10]]
+	- [[General Notes about IMG processing]]
+	- [[Histogram]]
+	- [[Image Operations&Segmentaion - image processing - lecture 5&6]]
+	- [[IMG Questions]]
+- **nlu**
+	- [[nlu - lecture 02 - word representation]]
+- **Parallel_Processing**
+	- [[parallel full review processing]]
+	- [[parallel processing lecture 0&1]]
+	- [[parallel processing lecture 02]]
+	- [[parallel processing lecture 06 - Cache Coherence]]
+	- [[parallel processing lecture 07]]
+	- [[parallel processing Questions]]
+- **speech_recognition**
+	- [[sr - CTC - end to end]]
+	- [[sr - Hidden Markov Model - HMM]]
+
+%% End Waypoint %%

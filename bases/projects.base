@@ -1,0 +1,97 @@
+filters:
+  and:
+    - file.folder != "templates"
+    - file.folder.containsAny("project")
+    - file.hasTag("Main")
+formulas:
+  checked: if(status == "complete", "✅" , if(status == "Pause","🟪","🟧"))
+  year of finish: end_date.year
+  interval: |
+    end_date - start_date
+properties:
+  formula.checked:
+    displayName: ✅
+views:
+  - type: table
+    name: all projects files
+    order:
+      - file.name
+      - status
+      - start_date
+      - end_date
+      - formula.year of finish
+      - formula.interval
+      - tags
+    columnSize:
+      file.name: 374
+      note.status: 85
+      note.end_date: 130
+      formula.year of finish: 52
+  - type: table
+    name: Shared
+    filters:
+      and:
+        - file.tags.contains("collaborate")
+    order:
+      - file.name
+      - date
+  - type: table
+    name: Flutter Projects
+    filters:
+      and:
+        - file.tags.containsAny("flutter")
+    order:
+      - file.name
+      - status
+      - start_date
+      - end_date
+      - formula.year of finish
+      - formula.interval
+      - tags
+    sort:
+      - property: status
+        direction: ASC
+    columnSize:
+      file.name: 374
+      note.status: 85
+      note.end_date: 130
+      formula.year of finish: 52
+  - type: table
+    name: Software Projects
+    filters:
+      and:
+        - file.tags.containsAny("Software")
+    order:
+      - file.name
+      - status
+      - start_date
+      - end_date
+      - formula.year of finish
+      - formula.interval
+      - tags
+    columnSize:
+      file.name: 374
+      note.status: 85
+      note.end_date: 130
+      formula.year of finish: 52
+  - type: table
+    name: Ai Projects
+    filters:
+      and:
+        - file.tags.containsAny("Ai")
+    order:
+      - file.name
+      - status
+      - start_date
+      - end_date
+      - formula.year of finish
+      - formula.interval
+      - tags
+    sort:
+      - property: status
+        direction: ASC
+    columnSize:
+      file.name: 374
+      note.status: 85
+      note.end_date: 130
+      formula.year of finish: 52

@@ -1,0 +1,276 @@
+{
+  "nodes": [
+    {
+      "id": "500d8f75b24ba21c",
+      "x": 539,
+      "y": -1627,
+      "width": 664,
+      "height": 1180,
+      "type": "group",
+      "label": "assumption"
+    },
+    {
+      "id": "d84e5ed19c17c857",
+      "x": 1328,
+      "y": -1301,
+      "width": 750,
+      "height": 834,
+      "type": "group",
+      "label": "accouting equalities and rules "
+    },
+    {
+      "id": "79362b995420581e",
+      "x": -147,
+      "y": -1311,
+      "width": 578,
+      "height": 916,
+      "type": "group",
+      "label": "principles"
+    },
+    {
+      "id": "237bd81dc10e4ccd",
+      "x": -127,
+      "y": -1223,
+      "width": 538,
+      "height": 371,
+      "type": "group",
+      "label": "مجالس القرارات الدولية و العاليمة "
+    },
+    {
+      "id": "2e0347fb1481c534",
+      "x": -127,
+      "y": -625,
+      "width": 503,
+      "height": 210,
+      "type": "group",
+      "label": "principles"
+    },
+    {
+      "id": "3ebcb40c96091a43",
+      "x": -834,
+      "y": -133,
+      "width": 534,
+      "height": 68,
+      "type": "text",
+      "text": "what is the meaning of Accounting ? "
+    },
+    {
+      "id": "c044e056a2c691bd",
+      "x": -106,
+      "y": -252,
+      "width": 438,
+      "height": 187,
+      "type": "text",
+      "text": "principles \nمجموعة من المعايير الي بيلتزم بها ال accounters "
+    },
+    {
+      "id": "05e465f7c27537ed",
+      "x": -169,
+      "y": 122,
+      "width": 363,
+      "height": 60,
+      "type": "text",
+      "text": "finical Accounting "
+    },
+    {
+      "id": "c8f0eb29eba8216e",
+      "x": -1047,
+      "y": -1097,
+      "width": 824,
+      "height": 784,
+      "type": "text",
+      "text": "Recording the finical daily  Transaction ,  analyzing and summarization for create reports for managers .\n\nthe basic Activations for finical Accounting  : \n1. identify the finical nature e \n2. records \n3. communication by making reports for users specially with External Users \nعلي  عكس ال managerial accounting الي بتركز اكتر مع ال external users \n\nusers like : \n1. internal users\n2. external users \n\n\n  "
+    },
+    {
+      "id": "924f2beba63c7ea8",
+      "x": -107,
+      "y": -485,
+      "width": 463,
+      "height": 50,
+      "type": "text",
+      "text": "historical cost principle"
+    },
+    {
+      "id": "aa91daa53dc4f173",
+      "x": -103,
+      "y": -596,
+      "width": 250,
+      "height": 60,
+      "type": "text",
+      "text": "GAAP"
+    },
+    {
+      "id": "a8f7944e1a0f9dc6",
+      "type": "text",
+      "text": "IASB\nمعايير  دولية ",
+      "x": -99,
+      "y": -1140,
+      "width": 250,
+      "height": 108
+    },
+    {
+      "id": "de94307cae73a4ae",
+      "x": -99,
+      "y": -981,
+      "width": 250,
+      "height": 109,
+      "type": "text",
+      "text": "FASB\nمعايير امريكية "
+    },
+    {
+      "id": "62ad572f0c129f0d",
+      "x": 495,
+      "y": -252,
+      "width": 465,
+      "height": 181,
+      "type": "text",
+      "text": "Assumptions\nمجموعة من الفرضيات  الي المفروض ناخدها في الاعتبار "
+    },
+    {
+      "id": "57b7ed3d126e2101",
+      "x": 1270,
+      "y": -303,
+      "width": 328,
+      "height": 85,
+      "type": "text",
+      "text": "accounting Equalities "
+    },
+    {
+      "id": "4d1d65f54d4b6208",
+      "x": 1251,
+      "y": -43,
+      "width": 297,
+      "height": 67,
+      "type": "text",
+      "text": "Rules and Matrixes "
+    },
+    {
+      "id": "87f4d5f2131df6f3",
+      "x": 559,
+      "y": -768,
+      "width": 624,
+      "height": 301,
+      "type": "text",
+      "text": "Economic entity assumption \nبفصل ال owners  عن الشركة  و شغلي كله علي الشركه ، يعني مثلا لو المستثمر زود فلوس للشركة فكده المستثمر خسر و لكن الشركة الاصول بتاعتها زادت "
+    },
+    {
+      "id": "da8ffc94c2166748",
+      "x": 565,
+      "y": -1019,
+      "width": 567,
+      "height": 168,
+      "type": "text",
+      "text": "Monetary unit assumption  \nيعني اننا بنفتضرت الاصوال هي الاشياء الي ممكن نحولها لمال "
+    },
+    {
+      "id": "c50bcda53e0ea84b",
+      "x": 578,
+      "y": -1569,
+      "width": 554,
+      "height": 346,
+      "type": "text",
+      "text": "owner types : \n1. proprietorship (1person)\n2. partnership (2persons or more)\n3. corporation (shares of stock)"
+    },
+    {
+      "id": "728188f6d2615e4f",
+      "x": 1348,
+      "y": -1281,
+      "width": 667,
+      "height": 567,
+      "type": "text",
+      "text": "`Assets = Liability (External)+ Owner Equity or Capital (Internal) `\n\n`Asset = Anything is Recievable`\n`Liability = Anything is Payable`\n`Net Income = Revenew - Expense`\n`Owner Equity = Capital - Drawing + Revenew - Expense`\n`Assets = Liability + Capital - Drawing + Revenew - Expense`"
+    },
+    {
+      "id": "ad328fb5061d467e",
+      "x": 1348,
+      "y": -677,
+      "width": 667,
+      "height": 141,
+      "type": "text",
+      "text": "on credit == on account يعني فوق الحساب"
+    },
+    {
+      "id": "608160bc3fbeac87",
+      "x": 2384,
+      "y": -1500,
+      "width": 796,
+      "height": 503,
+      "type": "text",
+      "text": "debit => يعني الفلوس الي معاك (في جيبك) كام دلوقتي \n[assets and expenses and drawing]\ncredit => الفلوس الآجله كام \n[liability and owner capital and revenue ]"
+    },
+    {
+      "id": "30e6a7c5304f2acb",
+      "x": -1047,
+      "y": -1387,
+      "width": 368,
+      "height": 96,
+      "type": "text",
+      "text": "how to recording ?"
+    }
+  ],
+  "edges": [
+    {
+      "id": "467cddfb51c5065f",
+      "fromNode": "05e465f7c27537ed",
+      "fromSide": "top",
+      "toNode": "3ebcb40c96091a43",
+      "toSide": "bottom"
+    },
+    {
+      "id": "57bc64d244bf13c3",
+      "fromNode": "3ebcb40c96091a43",
+      "fromSide": "top",
+      "toNode": "c8f0eb29eba8216e",
+      "toSide": "bottom"
+    },
+    {
+      "id": "4e593f99d5bf73ff",
+      "fromNode": "4d1d65f54d4b6208",
+      "fromSide": "top",
+      "toNode": "57b7ed3d126e2101",
+      "toSide": "bottom"
+    },
+    {
+      "id": "cbc5aad93d4b42cd",
+      "fromNode": "05e465f7c27537ed",
+      "fromSide": "top",
+      "toNode": "4d1d65f54d4b6208",
+      "toSide": "bottom"
+    },
+    {
+      "id": "8858d6c3310474f5",
+      "fromNode": "c044e056a2c691bd",
+      "fromSide": "top",
+      "toNode": "79362b995420581e",
+      "toSide": "bottom"
+    },
+    {
+      "id": "4c439db0a25c245a",
+      "fromNode": "62ad572f0c129f0d",
+      "fromSide": "top",
+      "toNode": "500d8f75b24ba21c",
+      "toSide": "bottom"
+    },
+    {
+      "id": "6d595513bd0d9b6e",
+      "fromNode": "57b7ed3d126e2101",
+      "fromSide": "top",
+      "toNode": "d84e5ed19c17c857",
+      "toSide": "bottom"
+    },
+    {
+      "id": "c2d87878f20975eb",
+      "fromNode": "c8f0eb29eba8216e",
+      "fromSide": "top",
+      "toNode": "30e6a7c5304f2acb",
+      "toSide": "bottom"
+    },
+    {
+      "id": "c36b9d82f2cf9ed8",
+      "fromNode": "728188f6d2615e4f",
+      "fromSide": "right",
+      "toNode": "608160bc3fbeac87",
+      "toSide": "left"
+    }
+  ]
+}

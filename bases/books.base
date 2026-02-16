@@ -1,0 +1,62 @@
+filters:
+  and:
+    - file.hasTag("📕book")
+    - file.folder != "templates"
+    - file.folder == "notes/books"
+formulas:
+  YN: end_date.format("YYYY")
+  Interval: end_date-start_date
+properties:
+  formula.Interval:
+    displayName: Interval of reading
+views:
+  - type: table
+    name: book view
+    filters:
+      and:
+        - Prio == "Reading"
+    order:
+      - Prio
+      - file.name
+      - start_date
+      - end_date
+      - formula.YN
+      - formula.Interval
+      - tags
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.Prio: 107
+      file.name: 258
+      note.end_date: 98
+      note.tags: 339
+  - type: cards
+    name: cards
+    order:
+      - file.name
+    image: note.image
+    imageAspectRatio: 0.8
+  - type: table
+    name: all books
+    order:
+      - Prio
+      - file.name
+      - start_date
+      - end_date
+      - formula.YN
+      - formula.Interval
+      - tags
+      - author
+    sort:
+      - property: Prio
+        direction: ASC
+      - property: file.ctime
+        direction: DESC
+    columnSize:
+      note.Prio: 113
+      file.name: 258
+      note.end_date: 98
+      formula.YN: 72
+      note.tags: 106
+      note.author: 157

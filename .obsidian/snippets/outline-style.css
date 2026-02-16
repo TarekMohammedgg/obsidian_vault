@@ -1,0 +1,51 @@
+/* === 1. Base Style (The Box) === */
+.workspace-leaf-content[data-type="outline"] .tree-item-self::before {
+    /* Default text in case logic misses (Debug) */
+    content: "H-"; 
+    
+    /* Style of the tag */
+    color: var(--text-on-accent); 
+    background-color: var(--interactive-accent); /* Uses your theme color */
+    font-size: 10px; 
+    font-weight: bold;
+    margin-inline-end: 8px;
+    padding: 2px 6px;
+    border-radius: 4px;
+    display: inline-block;
+    min-width: 15px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+/* === 2. Depth Logic (Using Overrides) === */
+/* We use generic selectors that get more specific deeper down */
+
+/* LEVEL 1 (H1) - The Root Items */
+/* Matches items directly inside the view content */
+.workspace-leaf-content[data-type="outline"] .view-content > .tree-item > .tree-item-self::before,
+.workspace-leaf-content[data-type="outline"] .view-content > div > .tree-item > .tree-item-self::before { 
+    content: "H1";
+    background-color: var(--color-red); /* Optional: Make H1 distinct color */
+}
+
+/* LEVEL 2 (H2) */
+/* Matches any item inside a children container */
+.workspace-leaf-content[data-type="outline"] .tree-item-children > .tree-item > .tree-item-self::before {
+    content: "H2";
+    background-color: var(--color-orange); /* Optional */
+}
+
+/* LEVEL 3 (H3) */
+/* Matches item inside TWO children containers */
+.workspace-leaf-content[data-type="outline"] .tree-item-children .tree-item-children > .tree-item > .tree-item-self::before {
+    content: "H3";
+    background-color: var(--color-yellow); 
+    color: var(--text-normal);
+}
+
+/* LEVEL 4 (H4) */
+.workspace-leaf-content[data-type="outline"] .tree-item-children .tree-item-children .tree-item-children > .tree-item > .tree-item-self::before {
+    content: "H4";
+    background-color: var(--color-green);
+    color: var(--text-normal);
+}

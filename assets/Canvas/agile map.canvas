@@ -1,0 +1,182 @@
+{
+  "nodes": [
+    {
+      "id": "26e996f0dc1f17ea",
+      "type": "group",
+      "x": 1926,
+      "y": -685,
+      "width": 290,
+      "height": 337,
+      "label": "Untitled group"
+    },
+    {
+      "id": "291dc85c6fcbeed2",
+      "type": "group",
+      "x": 2406,
+      "y": -692,
+      "width": 290,
+      "height": 310,
+      "label": "Untitled group"
+    },
+    {
+      "id": "acd63425739516c4",
+      "type": "text",
+      "text": "System ",
+      "x": 2426,
+      "y": -672,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "f9c650063f241c3c",
+      "type": "file",
+      "file": "assets/Pasted image 20251021015517.png",
+      "x": 2276,
+      "y": -265,
+      "width": 399,
+      "height": 190
+    },
+    {
+      "id": "e61ba2d899d01ddf",
+      "type": "file",
+      "file": "assets/Pasted image 20251021015334.png",
+      "x": 118,
+      "y": -265,
+      "width": 400,
+      "height": 263
+    },
+    {
+      "id": "c24a26b1a61fdf59",
+      "type": "text",
+      "text": "Agile \nkey flag : \n- Face to face \nwhen we can use Agile method : \n1. for small team \n2. user requirement unclear \n3. need readily feedback (onsite)\npros: \n- iteration (sprint ) (1-4 weeks)\n- communication over documentation \n- Adaptation\ncons: \n- lack of documentation \n- not suitable for complex \n- not suitable if the developer is unfamiliar with technology",
+      "x": -554,
+      "y": 717,
+      "width": 672,
+      "height": 642
+    },
+    {
+      "id": "fb005054782c8ad1",
+      "type": "text",
+      "text": " PMP ",
+      "x": -554,
+      "y": 43,
+      "width": 672,
+      "height": 633
+    },
+    {
+      "id": "a34f65f81cf74126",
+      "type": "text",
+      "text": "Scrum master :: is like a coach to guide you in project specially  Software Development , he is not managing the people just focus on problems and bugs related with project software , Connects the team with product owners, managers, and other departments. \n\n**Common Scrum Master certifications include:**\nCSM – Certified ScrumMaster (by Scrum Alliance)\nPSM – Professional Scrum Master (by Scrum.org)",
+      "x": -389,
+      "y": 82,
+      "width": 342,
+      "height": 556
+    },
+    {
+      "id": "1dca77d8a52a0355",
+      "type": "file",
+      "file": "assets/Pasted image 20251021015308.png",
+      "x": -447,
+      "y": -305,
+      "width": 400,
+      "height": 241
+    },
+    {
+      "id": "eb6d93ca9733232e",
+      "type": "text",
+      "text": "extreme Programming \n\n- focus on communication specially tell user stories \ncons: \n- XP is not advised for mission-critical applications\nhow to write better code and deliver \ncontinuously ",
+      "x": -757,
+      "y": 1588,
+      "width": 406,
+      "height": 358
+    },
+    {
+      "id": "be50185abc741f52",
+      "type": "text",
+      "text": "Scrum\n\nfocus on How to manage\nthe project.",
+      "x": 158,
+      "y": 1588,
+      "width": 250,
+      "height": 274
+    },
+    {
+      "id": "95983a5019820f4a",
+      "type": "file",
+      "file": "assets/Pasted image 20251021015348.png",
+      "x": 689,
+      "y": -265,
+      "width": 400,
+      "height": 308
+    },
+    {
+      "id": "9c578a339b69ac98",
+      "type": "file",
+      "file": "assets/Pasted image 20251021015441.png",
+      "x": 1710,
+      "y": -265,
+      "width": 400,
+      "height": 178
+    },
+    {
+      "id": "d1bb890e4a6fba0e",
+      "type": "text",
+      "text": "Design",
+      "x": 1946,
+      "y": -672,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "2c51270a1c0edc7f",
+      "type": "file",
+      "file": "assets/Pasted image 20251021015537.png",
+      "x": 2865,
+      "y": -265,
+      "width": 400,
+      "height": 217
+    },
+    {
+      "id": "9f8b245b7463df56",
+      "type": "text",
+      "text": "بركز اكتر علي مين ايه الي هيعمله النظام بشكل نظري تعرف هو ايه الفئة المفروض هتخدم المشروع ده ",
+      "x": 2426,
+      "y": -578,
+      "width": 250,
+      "height": 176
+    },
+    {
+      "id": "2d06b75a915b7404",
+      "type": "text",
+      "text": "مهتم اكتر بانك تجاوب علي الاسئلة \"كيف\" الجزء الخاص بالتصميم ، يعني و ايه ال requirement المطلوبة  ",
+      "x": 1946,
+      "y": -571,
+      "width": 250,
+      "height": 189
+    },
+    {
+      "id": "086862d70f6e1aab",
+      "type": "file",
+      "file": "assets/Pasted image 20251021015407.png",
+      "x": 1196,
+      "y": -265,
+      "width": 399,
+      "height": 313
+    }
+  ],
+  "edges": [
+    {
+      "id": "62f27d5f71233da5",
+      "fromNode": "c24a26b1a61fdf59",
+      "fromSide": "bottom",
+      "toNode": "eb6d93ca9733232e",
+      "toSide": "top"
+    },
+    {
+      "id": "918e598b4480d44d",
+      "fromNode": "c24a26b1a61fdf59",
+      "fromSide": "bottom",
+      "toNode": "be50185abc741f52",
+      "toSide": "top"
+    }
+  ]
+}

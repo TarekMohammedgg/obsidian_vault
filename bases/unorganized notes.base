@@ -1,0 +1,12 @@
+filters:
+  and:
+    - file.tags.isEmpty()
+    - file.folder == "notes"
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - tags
+    columnSize:
+      file.name: 514

@@ -1,0 +1,41 @@
+{
+  "nodes": [
+    {
+      "id": "1139011dd6ad29f2",
+      "x": -304,
+      "y": -98,
+      "width": 250,
+      "height": 296,
+      "type": "text",
+      "text": "1. notes \n2. capturing new notes or tasks or thoughts \n3. track habits and tasks to create systems "
+    },
+    {
+      "id": "43639fc2fec2193c",
+      "x": -115,
+      "y": -388,
+      "width": 250,
+      "height": 60,
+      "type": "text",
+      "text": "notes"
+    },
+    {
+      "id": "887fcb77650244d7",
+      "x": -115,
+      "y": -287,
+      "width": 250,
+      "height": 117,
+      "type": "text",
+      "text": "capturing new notes or tasks or thoughts "
+    },
+    {
+      "id": "878baaca335e6917",
+      "x": -115,
+      "y": -612,
+      "width": 250,
+      "height": 142,
+      "type": "text",
+      "text": "track habits and tasks to create systems"
+    }
+  ],
+  "edges": []
+}

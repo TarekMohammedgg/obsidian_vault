@@ -1,0 +1,123 @@
+{
+  "nodes": [
+    {
+      "id": "8cc67512b6f60a4b",
+      "x": -339,
+      "y": 64,
+      "width": 250,
+      "height": 60,
+      "type": "text",
+      "text": "key : \"pull\""
+    },
+    {
+      "id": "e21e13020cf1b441",
+      "x": -339,
+      "y": 169,
+      "width": 250,
+      "height": 60,
+      "type": "text",
+      "text": "key : \"legs\""
+    },
+    {
+      "id": "e85feac1ade19126",
+      "type": "text",
+      "text": "(item1 , item2 , item3)",
+      "x": 250,
+      "y": 162,
+      "width": 375,
+      "height": 75
+    },
+    {
+      "id": "414815de74f41e5a",
+      "type": "text",
+      "text": "(item1 , item2 , item3)",
+      "x": 250,
+      "y": 57,
+      "width": 375,
+      "height": 75
+    },
+    {
+      "id": "ce7d27dc8320c853",
+      "x": -89,
+      "y": -250,
+      "width": 179,
+      "height": 60,
+      "type": "text",
+      "text": "\"playList\""
+    },
+    {
+      "id": "d20960b6f38d4a1d",
+      "x": 408,
+      "y": -134,
+      "width": 375,
+      "height": 102,
+      "type": "text",
+      "text": "(item1 , item2, item3)"
+    },
+    {
+      "id": "f49332761b87ed05",
+      "x": -339,
+      "y": -83,
+      "width": 210,
+      "height": 86,
+      "type": "text",
+      "text": "key : \"push\" "
+    },
+    {
+      "id": "74aa5c9379155ab6",
+      "x": 408,
+      "y": -403,
+      "width": 250,
+      "height": 183,
+      "type": "text",
+      "text": "1. name \n2. type \n3. strength"
+    }
+  ],
+  "edges": [
+    {
+      "id": "8f8567fea79b8a77",
+      "fromNode": "ce7d27dc8320c853",
+      "fromSide": "bottom",
+      "toNode": "f49332761b87ed05",
+      "toSide": "top"
+    },
+    {
+      "id": "52693d5dfcd8a89a",
+      "fromNode": "f49332761b87ed05",
+      "fromSide": "right",
+      "toNode": "d20960b6f38d4a1d",
+      "toSide": "left",
+      "label": "list<ExerciseModel>"
+    },
+    {
+      "id": "bb8ef8058db2cdba",
+      "fromNode": "e21e13020cf1b441",
+      "fromSide": "right",
+      "toNode": "e85feac1ade19126",
+      "toSide": "left",
+      "label": "list<ExerciseModel>"
+    },
+    {
+      "id": "6207f3e591beab3d",
+      "fromNode": "8cc67512b6f60a4b",
+      "fromSide": "right",
+      "toNode": "414815de74f41e5a",
+      "toSide": "left",
+      "label": "list<ExerciseModel>"
+    },
+    {
+      "id": "45bd0d83779ce644",
+      "fromNode": "ce7d27dc8320c853",
+      "fromSide": "bottom",
+      "toNode": "8cc67512b6f60a4b",
+      "toSide": "top"
+    },
+    {
+      "id": "35bbd408623f9d28",
+      "fromNode": "ce7d27dc8320c853",
+      "fromSide": "bottom",
+      "toNode": "e21e13020cf1b441",
+      "toSide": "top"
+    }
+  ]
+}

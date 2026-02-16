@@ -1,0 +1,9 @@
+/* Adjust the width of the property name/label */
+body {
+  --metadata-label-width: 15rem; /* Increase this number to make labels wider */
+}
+
+/* Optional: Adjust for mobile specifically if needed */
+.is-mobile {
+  --metadata-label-width: 9rem;
+}

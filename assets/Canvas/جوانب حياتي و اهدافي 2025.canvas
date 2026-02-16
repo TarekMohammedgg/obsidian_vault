@@ -1,0 +1,266 @@
+{
+  "nodes": [
+    {
+      "id": "cf78db8138cca15c",
+      "type": "group",
+      "x": -2344,
+      "y": -291,
+      "width": 1124,
+      "height": 782,
+      "label": "الادوات"
+    },
+    {
+      "id": "d9a7a49736cbeeba",
+      "type": "group",
+      "x": -968,
+      "y": -250,
+      "width": 1287,
+      "height": 499,
+      "label": "جوانب الحياة "
+    },
+    {
+      "id": "cb78a1c5e94a3d38",
+      "type": "group",
+      "x": -1669,
+      "y": -189,
+      "width": 321,
+      "height": 600,
+      "label": "عادات و سلوكيات"
+    },
+    {
+      "id": "78b9c25d1f057ba8",
+      "type": "text",
+      "text": "فقة الاستخلاف",
+      "x": -185,
+      "y": -230,
+      "width": 215,
+      "height": 67
+    },
+    {
+      "id": "31b18868725fd27b",
+      "type": "text",
+      "text": "جوانب حياتي ",
+      "x": -171,
+      "y": -47,
+      "width": 188,
+      "height": 73
+    },
+    {
+      "id": "eccae892e6ab603b",
+      "type": "text",
+      "text": "الصحة  ",
+      "x": 30,
+      "y": 144,
+      "width": 163,
+      "height": 85
+    },
+    {
+      "id": "59a1a0d86785cf59",
+      "type": "text",
+      "text": "تعلم كيفية تنظيم يومك و كيفية الحفاظ علي وقتك و فقه الاولويات ",
+      "x": -2324,
+      "y": -75,
+      "width": 265,
+      "height": 140
+    },
+    {
+      "id": "307b0bc33ea68299",
+      "type": "text",
+      "text": "قراءة مقالات و محتوي مرئي و كتب ",
+      "x": -1992,
+      "y": -271,
+      "width": 286,
+      "height": 125,
+      "color": "1"
+    },
+    {
+      "id": "f4c7c6a6fc50f20a",
+      "type": "text",
+      "text": "معرفة الادوات الملائمة و الخاصة بك ",
+      "x": -1987,
+      "y": 155,
+      "width": 275,
+      "height": 116
+    },
+    {
+      "id": "a822da5520fae667",
+      "type": "text",
+      "text": "الادوات ",
+      "x": -1916,
+      "y": -32,
+      "width": 133,
+      "height": 54
+    },
+    {
+      "id": "2d4be3801a2b0fcc",
+      "type": "text",
+      "text": "الورد اليومي من القرآن الكريم ",
+      "x": -1649,
+      "y": 193,
+      "width": 281,
+      "height": 94
+    },
+    {
+      "id": "17a8373c8f8a9193",
+      "type": "text",
+      "text": "تثقيف النفس و تزكيتها ",
+      "x": -514,
+      "y": -40,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "c942f476be027437",
+      "type": "text",
+      "text": "ديني ",
+      "x": 180,
+      "y": -53,
+      "width": 119,
+      "height": 85
+    },
+    {
+      "id": "768cdca49e315511",
+      "type": "text",
+      "text": "الادارة المالية ",
+      "x": -364,
+      "y": 156,
+      "width": 201,
+      "height": 62
+    },
+    {
+      "id": "7d8ef0208f79a566",
+      "type": "text",
+      "text": "زيادة الوعي  و قراءة النفس و تقديرها ",
+      "x": -920,
+      "y": -62,
+      "width": 294,
+      "height": 104
+    },
+    {
+      "id": "c3546ef20bdf58cb",
+      "type": "text",
+      "text": "اذكار الصباح و المساء ",
+      "x": -1649,
+      "y": -169,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "6bbf8092675e25e9",
+      "type": "text",
+      "text": "الاستيقاظ مبكراً ",
+      "x": -1649,
+      "y": -90,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "df5507bffc0ae954",
+      "type": "text",
+      "text": "نظام غذائي مناسب لحياتي و البيئة المحيطه بي ",
+      "x": -1649,
+      "y": 88,
+      "width": 281,
+      "height": 82
+    },
+    {
+      "id": "27e6ac665a34a17b",
+      "type": "text",
+      "text": "اكتساب عادة القراءة ",
+      "x": -1649,
+      "y": -8,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "5c5af04f319024fa",
+      "x": -1443,
+      "y": -870,
+      "width": 485,
+      "height": 163,
+      "color": "5",
+      "type": "text",
+      "text": "#goals "
+    }
+  ],
+  "edges": [
+    {
+      "id": "d87d22ec0711a4fb",
+      "fromNode": "31b18868725fd27b",
+      "fromSide": "top",
+      "toNode": "78b9c25d1f057ba8",
+      "toSide": "bottom"
+    },
+    {
+      "id": "e3fd128f6e61cdfc",
+      "fromNode": "31b18868725fd27b",
+      "fromSide": "left",
+      "toNode": "17a8373c8f8a9193",
+      "toSide": "right"
+    },
+    {
+      "id": "d09e2edc40426965",
+      "fromNode": "31b18868725fd27b",
+      "fromSide": "right",
+      "toNode": "c942f476be027437",
+      "toSide": "left"
+    },
+    {
+      "id": "55b6b37c5bf3ac0b",
+      "fromNode": "31b18868725fd27b",
+      "fromSide": "bottom",
+      "toNode": "768cdca49e315511",
+      "toSide": "top"
+    },
+    {
+      "id": "0490ffe910803dc3",
+      "fromNode": "17a8373c8f8a9193",
+      "fromSide": "left",
+      "toNode": "7d8ef0208f79a566",
+      "toSide": "right"
+    },
+    {
+      "id": "f7971c197b8c0e9c",
+      "fromNode": "31b18868725fd27b",
+      "fromSide": "bottom",
+      "toNode": "eccae892e6ab603b",
+      "toSide": "top"
+    },
+    {
+      "id": "65901ca17d12b7fc",
+      "fromNode": "a822da5520fae667",
+      "fromSide": "top",
+      "toNode": "307b0bc33ea68299",
+      "toSide": "bottom"
+    },
+    {
+      "id": "50897df3cd8bedea",
+      "fromNode": "a822da5520fae667",
+      "fromSide": "left",
+      "toNode": "59a1a0d86785cf59",
+      "toSide": "right"
+    },
+    {
+      "id": "1475af6a477341d2",
+      "fromNode": "a822da5520fae667",
+      "fromSide": "bottom",
+      "toNode": "f4c7c6a6fc50f20a",
+      "toSide": "top"
+    },
+    {
+      "id": "cece346e73c97342",
+      "fromNode": "a822da5520fae667",
+      "fromSide": "right",
+      "toNode": "cb78a1c5e94a3d38",
+      "toSide": "left"
+    },
+    {
+      "id": "f32936426756dce7",
+      "fromNode": "cf78db8138cca15c",
+      "fromSide": "right",
+      "toNode": "d9a7a49736cbeeba",
+      "toSide": "left",
+      "label": "تؤثر علي "
+    }
+  ]
+}

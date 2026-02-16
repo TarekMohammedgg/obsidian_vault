@@ -1,0 +1,17 @@
+a.tag,
+.cm-s-obsidian span.cm-hashtag {
+  background: none !important;
+  border: none !important;
+  box-shadow: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  color: var(--text-accent) !important; 
+  text-decoration: none !important;
+}
+
+a.tag:hover,
+.cm-s-obsidian span.cm-hashtag:hover {
+  text-decoration: underline !important; 
+  background: none !important;
+  border: none !important;
+}
