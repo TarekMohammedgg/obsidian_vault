@@ -1,0 +1,72 @@
+- save it in  `.github/workflows/flutter.yml`
+```dart
+name: Flutter Stock App First Action
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout My Code
+        uses: actions/checkout@v4
+
+      - name: Setup Java 23
+        uses: actions/setup-java@v4
+        with:
+          distribution: 'temurin'
+          java-version: '23'
+
+      - name: Install Flutter Version 3.32.4
+        uses: subosito/flutter-action@v2
+        with:
+          flutter-version: '3.32.4'
+
+      - name: Create .env file
+        run: |
+          echo -n "GSHEET_CREDENTIALS=" > .env
+          echo "${{ secrets.GSHEET_CREDENTIALS }}" | base64 -d >> .env
+          echo "" >> .env
+
+      - name: Create google-services.json
+        run: echo "${{ secrets.GOOGLE_SERVICES_JSON }}" | base64 -d > android/app/google-services.json
+
+      - name: Create firebase_options.dart
+        run: echo "${{ secrets.FIREBASE_OPTIONS_DART }}" | base64 -d > lib/firebase_options.dart
+
+      - name: Install Dependencies
+        run: flutter pub get
+
+      - name: Generate Launcher Icons
+        run: dart run flutter_launcher_icons
+
+      - name: Generate Native Splash
+        run: dart run flutter_native_splash:create
+
+      # --- Critical Fix for Native Assets ---
+      - name: Flutter Clean
+        run: flutter clean
+
+      - name: Re-fetch Dependencies
+        run: flutter pub get
+      # --------------------------------------
+
+      - name: Run Our Test
+        run: flutter test
+
+      - name: Build APK
+        run: flutter build apk --release
+
+      - name: Upload APK
+        uses: actions/upload-artifact@v4
+        with:
+          name: release-apk
+          path: build/app/outputs/flutter-apk/app-release.apk
+```

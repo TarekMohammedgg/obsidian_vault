@@ -1,0 +1,166 @@
+---
+tags:
+  - Language/English
+---
+# part 1 
+- chores => واجبات منزلية 
+- vacuumed => غسالة الاطباق الكهربائية 
+- mopped => مسحت 
+- clean freak => مهووس بالنظافة 
+- respectable => محترم 
+- reunited => لم الشمل 
+- army buddies => رفاق الجيش 
+- fall == autumn => فصل الخريف 
+- daylight saving time => التوقيت الصيفي 
+- mild => خفيف 
+- ditched => التخلي 
+- carrying => حمل 
+- athletic => رياضي 
+- Kindergarten => روضة الاطفال 
+- Recess and lunch break => فترة الاستراحه و اخذ الغداء 
+- wool => صوف 
+- appealing => جذاب 
+- intuitive=» حدسي 
+- decently=» بشكل لائق 
+- frustration=> الاحباط
+- Prank => مقلب 
+- Frat= > ظرضه
+- Fussy => صعب الارضاء
+- swallowed= ابتلع
+- disaster = كارثة 
+- diners = مطاعم 
+- articulate => التعبير عن 
+- satisfaction => اشباع 
+- tendency => الميل او النزعة تجاه شيء معين 
+- deliberate => متعمد 
+- hallmark  => الصفة المميزة 
+- Leveraging => الاستقادة 
+- conduct  => تتوصل اليها ، او اجرائها 
+- lettuce => خس 
+- ham => لحم الخنزير
+- spoil => تفسد 
+- pub => حانة 
+- closet => خزانة الملابس 
+- hike => رحلة 
+- bagels => الخبز 
+- patriotic  => وطني 
+- bay => خليج 
+- scrape => قسط او ازالة 
+- plaque => طبقة الجير الي موجوده علي الاسنان 
+- gums => اللثه 
+- floss => يسلك اسنانة بسلاكه الاسنان الخيط 
+- cavities => تجاويف 
+- braces => تقويم الاسنان 
+- insurance  => تأمين 
+- perfect gown => اللبس المثالي 
+- bride => الزوجة 
+- groom => زوج
+- ceremony => احتفال 
+- minister => الوزير 
+- vows => العهود 
+- residential  => سكني 
+- lawns => المروج ، الارض الخضراء الواسعه 
+- surfing the web => تصفح الانترنت 
+- lame => عاجز 
+- siblings => الاخوة 
+- hang out => التسكع 
+- tough  => قاس 
+- freshmen => 9th high school student 
+- sophomores => 10th high school student 
+- juniors => 11th high school student 
+- seniors => 12th high school student 
+- manners => اخلاق
+- etiquette => اخلاق برده 
+- dining => لها اكتر من منطلق ناخد (مثلا ناخد بداية الحوار ) او الاكل نفسه اننا ناكل مثلا 
+- chew => مضغ 
+- sip => رشفه ، يرشف مثلا 
+- slurping => ارتشاف 
+- rude => غير مهذب 
+- burp => التجشؤ 
+- throat => حلقوم 
+- elbows => المرفقين 
+- disgusting => مقزز 
+- sunbathe => الاستلقاء علي الكرسي او الرمل امام البحر 
+- in U.S they use `Cllegue` more frequently than `University` . 
+- distinguish => التمييز (التفرقة )
+- tuition => التدريس 
+- attend => الالتحاق بـ 
+- dorms => مساكن الطلبة 
+- campus => الحرم الجامعي 
+- notorious => سيء السمعة 
+- stuff => اشياء 
+- jealous => غيور 
+- heater => السخان 
+- crowded => مزدحم 
+- fancier => اناقة 
+
+# part 2 
+- ropes => حبال 
+- elliptical => جهاز روبي 
+- pecs => عضلات الصدر 
+- quads muscles => عضلات الفخذ 
+![](../assets/download-1.jpg)
+
+- calves muscles => السمانة 
+- hamstring muscles => عضلات الخلفية 
+- deltoids (shoulder) => عضلات الكتف الخلفي و الامامي 
+- tends to => اميل الي 
+- "I tend to read a lot"
+- each to his own => كل شخص له ما يخصة 
+- I do**n't** eat meat, **nor** do I drink caffeine.
+- Needless => لا داعي لذلك 
+- Diners => restaurants that sell typical American food 
+- regardless => بغض النظر 
+-  doubt => يشك 
+- franchises : مطاعم او محلات درجة اولي 
+- chains : سلاسل 
+- tipping : الاكرامية 
+- ludicrous : سخيف 
+- Anxious : متوتر 
+- astronomical: فلكي (رقم او سعر مبالغ فيه ) 
+- consultation : الاستشارة 
+- conference room : غرفة المؤتمرات 
+- Natural Disasters : كوراث طبيعية 
+- regular basis : بشكل منتظم 
+- notable : ملحوظ 
+- minor : صغير 
+- freaked out : خائف 
+- insane : احمق او غير طبيعي 
+- hurricanes : اعاصير 
+- devastated : مدمر
+- articulate => التعبير عن 
+- satisfaction => اشباع 
+- tendency => الميل او النزعة تجاه شيء معين 
+- deliberate => متعمد 
+- hallmark  => الصفة المميزة 
+- Leveraging => الاستقادة 
+- conduct  => تتوصل اليها ، او اجرائها 
+- Taming = ترويض 
+- lottery = اليانصيب 
+- immigration = الهجرة 
+- horizons = افاق 
+- underestimate = التقليل او التخفيف من شأن 
+- teenagers = مرحلة المراهقة 
+- adulthood = مرحلة البلوغ 
+- undoubtedly = بلا شك 
+- struggle = كفاح 
+- to build upon = للبناء عليها / علي اساسها 
+- raising children =  تربية الاطفال 
+- you take on much responsibility = تتحمل الكثير من المسؤولية 
+- accomplish more = انجاز الكثير 
+- prodigies = العباقرة 
+- subtle = دقيق 
+- not giving a fuck = عدم الاكتراث 
+- "the subtle art of not giving a fuck " = فن اللامبالاة 
+- deserve = تستحق
+- credit = like master card , and can maybe mean glade you 
+- engaging = attractive or interesting 
+- humor = joke or make people laughing 😂
+- hangs out with = take a lot of time with us 
+- inclusive = include all thing 
+- exclusive = special brand or special thing not available for all people 
+- steady = like advantage , do something effectively 
+- grasp = get thing 
+- fascinated = thing you think about it a lot 
+- puberty = your body is grown up 
+- acne = the youth Poppins  
